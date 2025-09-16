@@ -1,0 +1,928 @@
+Doctor_Name,specialization,avg_rate,clinic_location,Category,general_location,Unnamed: 0,latitude_exact,longitude_exact,latitude_general,longitude_general,latitude,longitude
+Salim El-Shazly,Physiotherapist,5.0,El-Mansoura,Musculoskeletal,El-Mansoura,0.0,36.786091,9.9000163,36.786091,9.9000163,36.786091,9.9000163
+Hassan El-Kholy,Dermatologist,4.5,El-Ibrahimia,Skin,El-Ibrahimia,1.0,28.4243751,30.7932891,28.4243751,30.7932891,28.4243751,30.7932891
+Mohamed Youssef,Orthopedist,4.5,6th of October,Musculoskeletal,6th of October,2.0,29.9723458,30.9409205,29.9723458,30.9409205,29.9723458,30.9409205
+Jamal El-Kassas,Gynecologist,4.758470894874023,El-Haram,Urinary and Reproductive,El-Haram,3.0,29.9942663,31.1604591,29.9942663,31.1604591,29.9942663,31.1604591
+Nader Fahmy,Dermatologist,5.0,Nasr City,Skin,Nasr City,4.0,30.0521177,31.3422045,30.0521177,31.3422045,30.0521177,31.3422045
+Sami Samir,Pediatrician,4.758470894874023,El-Dokki,Others,El-Dokki,5.0,30.0388955,31.2125563,30.0388955,31.2125563,30.0388955,31.2125563
+Ibrahim Shalaby,Pediatrician,4.758470894874023,El-Dokki,Others,El-Dokki,5.0,30.0388955,31.2125563,30.0388955,31.2125563,30.0388955,31.2125563
+Khaled Ibrahim,Cardiologist,4.758470894874023,El-Dokki,Cardiovascular,El-Dokki,5.0,30.0388955,31.2125563,30.0388955,31.2125563,30.0388955,31.2125563
+Jamal El-Kholy,Gynecologist,4.5,6th of October,Urinary and Reproductive,6th of October,2.0,29.9723458,30.9409205,29.9723458,30.9409205,29.9723458,30.9409205
+Hassan Nasser,Pediatrician,4.758470894874023,Yousef Abbas,Others,Yousef Abbas,6.0,29.5804817,31.2877833,,,29.5804817,31.2877833
+Walid El-Din,General Surgeon,4.5,"El-Maadi , Zahraa El Maadi Road Carefour",Musculoskeletal,"El-Maadi , Zahraa El Maadi Road Carefour",,,,,,,
+Jamal El-Shennawy,Urologist,5.0,Nasr City,Urinary and Reproductive,Nasr City,4.0,30.0521177,31.3422045,30.0521177,31.3422045,30.0521177,31.3422045
+Noha El-Shennawy,Neurosurgeon,5.0,Nasr City,Neurological and Psychiatric,Nasr City,4.0,30.0521177,31.3422045,30.0521177,31.3422045,30.0521177,31.3422045
+Ali El-Masry,Gynecologist,5.0,"Shoubra El-Kheima , 15th may",Urinary and Reproductive,"Shoubra El-Kheima , 15th may",,,,,,,
+Yasmin Nasser,General Surgeon,4.5,"Moharam Bek , moharam bek",Musculoskeletal,"Moharam Bek , moharam bek",,,,,,,
+Dina El-Baz,Gynecologist,5.0,"El-Mohandessin , el Sudan Street",Urinary and Reproductive,"El-Mohandessin , el Sudan Street",,,,,,,
+Mohamed El-Din,Urologist,4.758470894874023,El-Dokki,Urinary and Reproductive,El-Dokki,5.0,30.0388955,31.2125563,30.0388955,31.2125563,30.0388955,31.2125563
+Mohamed Samir,Nephrologist,5.0,"Nasr City , Zaker Hussien Street-District 7",Urinary and Reproductive,"Nasr City , Zaker Hussien Street-District 7",,,,,,,
+Ali El-Amin,Neurologist,4.758470894874023,El-Dokki,Neurological and Psychiatric,El-Dokki,5.0,30.0388955,31.2125563,30.0388955,31.2125563,30.0388955,31.2125563
+Ibrahim Mostafa,Pediatrician,5.0,"Nasr City , Ibrahim Nawar parallel to Ahmed Fakhry - Sixth Region.",Others,"Nasr City , Ibrahim Nawar parallel to Ahmed Fakhry - Sixth Region.",,,,,,,
+Ibrahim El-Shennawy,Physiotherapist,4.5,Shoubra El-Kheima,Musculoskeletal,Shoubra El-Kheima,13.0,30.0800186,31.245269,30.1210367,31.2521633,30.0800186,31.245269
+Mariam El-Naggar,ENT Doctor,5.0,"El-Zagazig , al kwmya street","Eye, Ear and Nose","El-Zagazig , al kwmya street",,,,,,,
+Yasmin El-Sherbiny,Ophthalmologist,5.0,Shoubra,"Eye, Ear and Nose",Shoubra,15.0,31.0295879,30.458754,31.0295879,30.458754,31.0295879,30.458754
+Mohamed Hussein,Nephrologist,5.0,"New Cairo , beside new cairo court",Urinary and Reproductive,"New Cairo , beside new cairo court",,,,,,,
+Reem El-Shazly,Internist,4.5,"El-Mansoura , sandob square",Others,"El-Mansoura , sandob square",,,,,,,
+Mahmoud Mostafa,ENT Doctor,4.5,"El-Mokattam , Street 9","Eye, Ear and Nose","El-Mokattam , Street 9",,,,,,,
+Rami Mansour,General Surgeon,4.5,"El-Sheikh Zayed , Mouez plaza-",Musculoskeletal,"El-Sheikh Zayed , Mouez plaza-",,,,,,,
+Bassam Farouk,Internist,5.0,"Tanta , Elmoderya st",Others,"Tanta , Elmoderya st",,,,,,,
+Hani El-Shennawy,Cardiothoracic Surgeon,4.758470894874023,"El-Giza , Morad street",Cardiovascular,"El-Giza , Morad street",,,,,,,
+Firas El-Hadidy,Cardiologist,5.0,"Shoubra El-Kheima , 15 May, St.",Cardiovascular,"Shoubra El-Kheima , 15 May, St.",,,,,,,
+Dina Abdallah,Internist,4.0,"El-Zaitoun , Seliem El Awal",Others,"El-Zaitoun , Seliem El Awal",,,,,,,
+Ibrahim Youssef,Physiotherapist,5.0,El-Mansoura,Musculoskeletal,El-Mansoura,0.0,36.786091,9.9000163,36.786091,9.9000163,36.786091,9.9000163
+Fatma El-Gendy,Dermatologist,4.5,El-Ibrahimia,Skin,El-Ibrahimia,1.0,28.4243751,30.7932891,28.4243751,30.7932891,28.4243751,30.7932891
+Yasmin Salah,Orthopedist,4.5,6th of October,Musculoskeletal,6th of October,2.0,29.9723458,30.9409205,29.9723458,30.9409205,29.9723458,30.9409205
+Nader Nasser,Gynecologist,4.758470894874023,El-Haram,Urinary and Reproductive,El-Haram,3.0,29.9942663,31.1604591,29.9942663,31.1604591,29.9942663,31.1604591
+Ahmed Saeed,Dermatologist,5.0,Nasr City,Skin,Nasr City,4.0,30.0521177,31.3422045,30.0521177,31.3422045,30.0521177,31.3422045
+Zein El-Naggar,ENT Doctor,4.5,Hadayek El-Ahram,"Eye, Ear and Nose",Hadayek El-Ahram,24.0,29.9699896,31.0973269,29.9699896,31.0973269,29.9699896,31.0973269
+Amr Salah,ENT Doctor,4.5,El-Abbasia,"Eye, Ear and Nose",El-Abbasia,25.0,30.0648589,31.2916881,30.0648589,31.2916881,30.0648589,31.2916881
+Hani El-Shazly,Cardiologist,4.0,"El-Mohandessin , ahmed orabi",Cardiovascular,"El-Mohandessin , ahmed orabi",,,,,,,
+Dina El-Din,Psychiatrist,4.0,El-Mokattam,Neurological and Psychiatric,El-Mokattam,27.0,30.0221089,31.2683682,30.0221089,31.2683682,30.0221089,31.2683682
+Sara Taha,Dentist,5.0,"El-Maadi , 77 Street Extension - Arab El Maadi",Others,"El-Maadi , 77 Street Extension - Arab El Maadi",,,,,,,
+Firas Ibrahim,Ophthalmologist,4.5,"Faisal , faisal main street","Eye, Ear and Nose","Faisal , faisal main street",,,,,,,
+Khaled El-Kassas,Endocrinologist,4.5,New Cairo,Others,New Cairo,30.0,30.0277688,31.4756825,30.0277688,31.4756825,30.0277688,31.4756825
+Ibrahim El-Sayed,Rheumatologist,4.5,"Nasr City , Ahmed qasim branched from abbas elakaad",Musculoskeletal,"Nasr City , Ahmed qasim branched from abbas elakaad",,,,,,,
+Sara Nasser,Orthopedist,4.5,"Sidy Bishr , 196 Gamal Abdelnasser st, - Beside Baba Sharo.",Musculoskeletal,"Sidy Bishr , 196 Gamal Abdelnasser st, - Beside Baba Sharo.",,,,,,,
+Firas El-Sherif,Physiotherapist,4.5,"Faisal , Huda Mosque Street",Musculoskeletal,"Faisal , Huda Mosque Street",,,,,,,
+Ali El-Shazly,Physiotherapist,4.5,"Nasr City , metwally el shaarawy",Musculoskeletal,"Nasr City , metwally el shaarawy",,,,,,,
+Aya El-Masry,Ophthalmologist,5.0,Miamy,"Eye, Ear and Nose",Miamy,35.0,-23.4461564,-51.8861956,-23.4461564,-51.8861956,-23.4461564,-51.8861956
+Ali El-Kassas,Gynecologist,4.5,"Faisal , king Faisal Street",Urinary and Reproductive,"Faisal , king Faisal Street",,,,,,,
+Nour Zaki,Dermatologist,4.5,"Faisal , gendia  mall _eltawabek",Skin,"Faisal , gendia  mall _eltawabek",,,,,,,
+Sara El-Baz,ENT Doctor,4.5,"El-Mansoura , gehan","Eye, Ear and Nose","El-Mansoura , gehan",,,,,,,
+Yasmin El-Shennawy,Internist,4.5,"El-Zagazig , mahmoud hashem street-Kawmya",Others,"El-Zagazig , mahmoud hashem street-Kawmya",,,,,,,
+Adel Samir,Cardiologist,4.5,"El-Mansoura , salah salem street",Cardiovascular,"El-Mansoura , salah salem street",,,,,,,
+Omar Kamel,Neurologist,4.5,"El-Dokki , Wezaret El Zeraa Street",Neurological and Psychiatric,"El-Dokki , Wezaret El Zeraa Street",,,,,,,
+Jamal Hussein,Dentist,4.5,"Faisal , 106 king fisal above ahli bank front of vodafone maryotya",Others,"Faisal , 106 king fisal above ahli bank front of vodafone maryotya",,,,,,,
+Heba Khalil,Dentist,4.0,Sidy Bishr,Others,Sidy Bishr,,,,,,,
+Noha El-Masry,Dentist,4.5,"New Cairo , 90",Others,"New Cairo , 90",,,,,,,
+Mostafa Zaki,Physiotherapist,4.5,"Hadayek El-Ahram , Fifth North Street after Menkaure Gate",Musculoskeletal,"Hadayek El-Ahram , Fifth North Street after Menkaure Gate",,,,,,,
+Aya Zaki,Dentist,4.5,"Shoubra , shikolany",Others,"Shoubra , shikolany",,,,,,,
+Ali Hassan,Dentist,4.5,"Assiut city , yousry ragheb extention",Others,"Assiut city , yousry ragheb extention",,,,,,,
+Reem Farouk,Dentist,4.0,"El-Sayeda Zainab , A Elkasr Eleini",Others,"El-Sayeda Zainab , A Elkasr Eleini",,,,,,,
+Fady El-Sayed,Physiotherapist,4.5,"Sidy Bishr , Alaman st. from sidi Beshr mosque st.",Musculoskeletal,"Sidy Bishr , Alaman st. from sidi Beshr mosque st.",,,,,,,
+Salim Mostafa,Gastroenterologist,5.0,El-Maadi,Gastrointestinal and Liver,El-Maadi,50.0,36.6117091,4.6680878,36.6117091,4.6680878,36.6117091,4.6680878
+Nadia Mansour,Physiotherapist,5.0,El-Mansoura,Musculoskeletal,El-Mansoura,0.0,36.786091,9.9000163,36.786091,9.9000163,36.786091,9.9000163
+Nour Khalil,Dermatologist,4.5,El-Ibrahimia,Skin,El-Ibrahimia,1.0,28.4243751,30.7932891,28.4243751,30.7932891,28.4243751,30.7932891
+Amira Fathy,Orthopedist,4.5,6th of October,Musculoskeletal,6th of October,2.0,29.9723458,30.9409205,29.9723458,30.9409205,29.9723458,30.9409205
+Tamer El-Khatib,Gynecologist,4.758470894874023,El-Haram,Urinary and Reproductive,El-Haram,3.0,29.9942663,31.1604591,29.9942663,31.1604591,29.9942663,31.1604591
+Rami Abdelrahman,Dermatologist,5.0,Nasr City,Skin,Nasr City,4.0,30.0521177,31.3422045,30.0521177,31.3422045,30.0521177,31.3422045
+Youssef Fathy,Plastic Surgeon,4.0,El-Zagazig,Musculoskeletal,El-Zagazig,51.0,30.5950402,31.5125611,30.5886074,31.4819297,30.5950402,31.5125611
+Omar Saeed,Internist,4.5,"El-Zagazig , mahmoud hashem street-Kawmya",Others,"El-Zagazig , mahmoud hashem street-Kawmya",,,,,,,
+Bassam El-Naggar,Pulmonologist,4.5,El-Mokattam,Respiratory,El-Mokattam,27.0,30.0221089,31.2683682,30.0221089,31.2683682,30.0221089,31.2683682
+Ibrahim Mansour,Dermatologist,4.5,"Faisal , gendia  mall _eltawabek",Skin,"Faisal , gendia  mall _eltawabek",,,,,,,
+Nader El-Sherbiny,Neurologist,4.5,"El-Dokki , Wezaret El Zeraa Street",Neurological and Psychiatric,"El-Dokki , Wezaret El Zeraa Street",,,,,,,
+Ali Fahmy,Dentist,4.5,"El-Zagazig , ,  El Obour Bridge extension",Others,"El-Zagazig , ,  El Obour Bridge extension",,,,,,,
+Firas Abdallah,Dentist,4.5,"Shoubra , shoubra street",Others,"Shoubra , shoubra street",,,,,,,
+Hassan Salah,Dentist,4.0,El-Fayoum city,Others,El-Fayoum city,54.0,29.3074076,30.8399651,29.3074076,30.8399651,29.3074076,30.8399651
+Zein El-Sherbiny,Physiotherapist,4.5,"Hadayek El-Ahram , Fifth North Street after Menkaure Gate",Musculoskeletal,"Hadayek El-Ahram , Fifth North Street after Menkaure Gate",,,,,,,
+Zein El-Kassas,Dentist,4.5,"New Cairo , 90",Others,"New Cairo , 90",,,,,,,
+Heba Kamel,Dentist,4.5,"Assiut city , yousry ragheb extention",Others,"Assiut city , yousry ragheb extention",,,,,,,
+Salim Samir,Dentist,4.0,Sidy Bishr,Others,Sidy Bishr,,,,,,,
+Nour El-Hadidy,Dentist,4.5,"Heliopolis , othman ibn affan",Others,"Heliopolis , othman ibn affan",,,,,,,
+Amr Saeed,Dentist,4.5,"Tanta , saeed with omar abd el3aziz",Others,"Tanta , saeed with omar abd el3aziz",,,,,,,
+Nour El-Kassas,Dentist,4.5,"Shoubra , shikolany",Others,"Shoubra , shikolany",,,,,,,
+Nour Mostafa,Dentist,4.5,El-Mokattam,Others,El-Mokattam,27.0,30.0221089,31.2683682,30.0221089,31.2683682,30.0221089,31.2683682
+Mahmoud El-Shazly,Dentist,4.5,"Faisal , 106 king fisal above ahli bank front of vodafone maryotya",Others,"Faisal , 106 king fisal above ahli bank front of vodafone maryotya",,,,,,,
+Walid Gaber,Dentist,4.0,"El-Sayeda Zainab , A Elkasr Eleini",Others,"El-Sayeda Zainab , A Elkasr Eleini",,,,,,,
+Adel Mansour,Urologist,4.5,"El-Zagazig , next to sednawy hospital",Urinary and Reproductive,"El-Zagazig , next to sednawy hospital",,,,,,,
+Hani El-Mahdy,Orthopedist,4.5,"Hadayek El-Ahram , Gardenia Street",Musculoskeletal,"Hadayek El-Ahram , Gardenia Street",,,,,,,
+Walid El-Gendy,Gynecologist,4.5,6th of October,Urinary and Reproductive,6th of October,2.0,29.9723458,30.9409205,29.9723458,30.9409205,29.9723458,30.9409205
+Bassam Mostafa,Physiotherapist,4.5,"New Cairo , El Narges Services Area",Musculoskeletal,"New Cairo , El Narges Services Area",,,,,,,
+Youssef Mansour,Physiotherapist,4.5,"Sidy Bishr , Alaman st. from sidi Beshr mosque st.",Musculoskeletal,"Sidy Bishr , Alaman st. from sidi Beshr mosque st.",,,,,,,
+Nadia Mostafa,Dentist,4.5,El-Mansoura,Others,El-Mansoura,0.0,36.786091,9.9000163,36.786091,9.9000163,36.786091,9.9000163
+Salim Khalil,Dentist,4.5,"Nasr City ,  Mohamed Almakreif",Others,"Nasr City ,  Mohamed Almakreif",,,,,,,
+Amr El-Sherif,Dentist,4.5,"Madinaty , Medical Center",Others,"Madinaty , Medical Center",,,,,,,
+Noha Saeed,Orthopedist,4.5,"Hadayek El-Ahram , elgish street",Musculoskeletal,"Hadayek El-Ahram , elgish street",,,,,,,
+Jamal Saeed,Gynecologist,4.5,"El-Maadi , carrefour road",Urinary and Reproductive,"El-Maadi , carrefour road",,,,,,,
+Firas El-Naggar,Audiologist,4.5,"Faisal , fisal street","Eye, Ear and Nose","Faisal , fisal street",,,,,,,
+Amr Hussein,Dentist,4.0,"Sidy Bishr , 41 Albekbashy Elesawy st., in front of the Computer Mall.",Others,"Sidy Bishr , 41 Albekbashy Elesawy st., in front of the Computer Mall.",,,,,,,
+Heba Mansour,Physiotherapist,5.0,El-Mansoura,Musculoskeletal,El-Mansoura,0.0,36.786091,9.9000163,36.786091,9.9000163,36.786091,9.9000163
+Aya Shalaby,Dermatologist,4.5,El-Ibrahimia,Skin,El-Ibrahimia,1.0,28.4243751,30.7932891,28.4243751,30.7932891,28.4243751,30.7932891
+Adel El-Sherbiny,Orthopedist,4.5,6th of October,Musculoskeletal,6th of October,2.0,29.9723458,30.9409205,29.9723458,30.9409205,29.9723458,30.9409205
+Salim El-Sherif,Gynecologist,4.758470894874023,El-Haram,Urinary and Reproductive,El-Haram,3.0,29.9942663,31.1604591,29.9942663,31.1604591,29.9942663,31.1604591
+Hani Nasser,Dermatologist,5.0,Nasr City,Skin,Nasr City,4.0,30.0521177,31.3422045,30.0521177,31.3422045,30.0521177,31.3422045
+Reem Khalil,Pulmonologist,4.758470894874023,El-Dokki,Respiratory,El-Dokki,5.0,30.0388955,31.2125563,30.0388955,31.2125563,30.0388955,31.2125563
+Ibrahim Nasser,Physiotherapist,4.758470894874023,"El-Dokki , Tiba St from Gamaet Dwol",Musculoskeletal,"El-Dokki , Tiba St from Gamaet Dwol",,,,,,,
+Hani Abdelrahman,Dentist,5.0,"Heliopolis , Ahmed el Dardiry, Ard El Golf",Others,"Heliopolis , Ahmed el Dardiry, Ard El Golf",,,,,,,
+Mona El-Baz,Gynecologist,4.758470894874023,El-Dokki,Urinary and Reproductive,El-Dokki,5.0,30.0388955,31.2125563,30.0388955,31.2125563,30.0388955,31.2125563
+Omar El-Naggar,Dentist,4.758470894874023,06-Oct,Others,06-Oct,68.0,22.5369227,113.9779003,,,22.5369227,113.9779003
+Ibrahim El-Shazly,Gynecologist,5.0,"El-Manyal , Elmanial street",Urinary and Reproductive,"El-Manyal , Elmanial street",,,,,,,
+Firas El-Gohary,Pediatrician,4.758470894874023,El-Dokki,Others,El-Dokki,5.0,30.0388955,31.2125563,30.0388955,31.2125563,30.0388955,31.2125563
+Mona Salah,Gynecologist,4.5,Alharam street,Urinary and Reproductive,Alharam street,70.0,15.2855885,44.2258985,,,15.2855885,44.2258985
+Laila Samir,Hematologist,4.5,"Tanta , El-Geish St.  with Al-Galaa st. Al-Awkaf tower .",Cardiovascular,"Tanta , El-Geish St.  with Al-Galaa st. Al-Awkaf tower .",,,,,,,
+Adel El-Kholy,Endocrinologist,4.5,"Faisal , Faisal First",Others,"Faisal , Faisal First",,,,,,,
+Youssef Zaki,Dentist,4.5,"6th of October , in front of wadi degla club",Others,"6th of October , in front of wadi degla club",,,,,,,
+Mahmoud El-Sherbiny,Internist,4.5,"Heliopolis , -behind Miliatry College",Others,"Heliopolis , -behind Miliatry College",,,,,,,
+Amira Hassan,Psychiatrist,4.5,Faisal,Neurological and Psychiatric,Faisal,75.0,30.0978834,32.4856496,30.0978834,32.4856496,30.0978834,32.4856496
+Rami El-Sherif,Cardiologist,4.5,"El-Mansoura , Marinet Mubarak Madina Monawara st.",Cardiovascular,"El-Mansoura , Marinet Mubarak Madina Monawara st.",,,,,,,
+Mona Mahmoud,General Surgeon,4.5,Helwan,Musculoskeletal,Helwan,77.0,29.8500001,31.333333,29.8500001,31.333333,29.8500001,31.333333
+Mahmoud El-Saied,Endocrinologist,4.5,"El-Haram , Station Mashaal",Others,"El-Haram , Station Mashaal",,,,,,,
+Bassam Fathy,Gynecologist,5.0,"Hadayek El-Ahram , z",Urinary and Reproductive,"Hadayek El-Ahram , z",,,,,,,
+Mariam Fathy,Pediatrician,4.5,Alharam street,Others,Alharam street,70.0,15.2855885,44.2258985,,,15.2855885,44.2258985
+Laila Farouk,Internist,4.0,"El-Rehab , Medical Complex 1",Others,"El-Rehab , Medical Complex 1",,,,,,,
+Salim El-Shennawy,Rheumatologist,4.5,"Heliopolis , hassan aflaton",Musculoskeletal,"Heliopolis , hassan aflaton",,,,,,,
+Heba Abdallah,Dentist,5.0,90 Street,Others,90 Street,82.0,25.3765768,55.4139127,,,25.3765768,55.4139127
+Khaled Gaber,Gynecologist,4.5,"Faisal , King Faisal",Urinary and Reproductive,"Faisal , King Faisal",,,,,,,
+Adel Fathy,Dentist,4.758470894874023,Naguib mahfouz,Others,Naguib mahfouz,84.0,31.9047407,35.1894873,,,31.9047407,35.1894873
+Firas El-Sherbiny,Cardiologist,5.0,"El-Mansoura , el gomhoria street",Cardiovascular,"El-Mansoura , el gomhoria street",,,,,,,
+Sami El-Din,Gynecologist,4.5,Shoubra El-Kheima,Urinary and Reproductive,Shoubra El-Kheima,13.0,30.0800186,31.245269,30.1210367,31.2521633,30.0800186,31.245269
+Firas Zaki,Cardiologist,4.5,Menouf,Cardiovascular,Menouf,86.0,30.4626909,30.9388785,,,30.4626909,30.9388785
+Noha El-Gohary,General Surgeon,4.5,"El-Sheikh Zayed , twin tower -",Musculoskeletal,"El-Sheikh Zayed , twin tower -",,,,,,,
+Adel El-Masry,Nutritionist,4.5,"El-Obour City , 9th district",Others,"El-Obour City , 9th district",,,,,,,
+Amira El-Mahdy,Physiotherapist,5.0,El-Mansoura,Musculoskeletal,El-Mansoura,0.0,36.786091,9.9000163,36.786091,9.9000163,36.786091,9.9000163
+Dina El-Mahdy,Dermatologist,4.5,El-Ibrahimia,Skin,El-Ibrahimia,1.0,28.4243751,30.7932891,28.4243751,30.7932891,28.4243751,30.7932891
+Amira El-Saied,Orthopedist,4.5,6th of October,Musculoskeletal,6th of October,2.0,29.9723458,30.9409205,29.9723458,30.9409205,29.9723458,30.9409205
+Laila Shalaby,Gynecologist,4.758470894874023,El-Haram,Urinary and Reproductive,El-Haram,3.0,29.9942663,31.1604591,29.9942663,31.1604591,29.9942663,31.1604591
+Nour Samir,Dermatologist,5.0,Nasr City,Skin,Nasr City,4.0,30.0521177,31.3422045,30.0521177,31.3422045,30.0521177,31.3422045
+Jamal Zaki,Psychiatrist,4.5,Mahatet El-Raml,Neurological and Psychiatric,Mahatet El-Raml,89.0,31.201541,29.9013501,,,31.201541,29.9013501
+Khaled Fahmy,Nutritionist,4.758470894874023,El-Dokki,Others,El-Dokki,5.0,30.0388955,31.2125563,30.0388955,31.2125563,30.0388955,31.2125563
+Salma Fahmy,Pulmonologist,5.0,Khamseen Street (Carrefour extension) - Zahraa AlMaadi,Respiratory,Khamseen Street (Carrefour extension) - Zahraa AlMaadi,,,,,,,
+Mariam Farouk,Orthopedist,4.758470894874023,"Ali Amin Street, Al Manteqah Al Oula",Musculoskeletal,"Ali Amin Street, Al Manteqah Al Oula",,,,,,,
+Ali Mansour,Pulmonologist,4.758470894874023,El-Dokki,Respiratory,El-Dokki,5.0,30.0388955,31.2125563,30.0388955,31.2125563,30.0388955,31.2125563
+Omar Taha,Pediatrician,4.5,"El-Dokki , Tahrir Street-infront Of Asad Abn Elfourat mosque",Others,"El-Dokki , Tahrir Street-infront Of Asad Abn Elfourat mosque",,,,,,,
+Hassan El-Baz,Pediatrician,4.5,06-Oct,Others,06-Oct,68.0,22.5369227,113.9779003,,,22.5369227,113.9779003
+Khaled El-Khatib,Ophthalmologist,5.0,Nasr City,"Eye, Ear and Nose",Nasr City,4.0,30.0521177,31.3422045,30.0521177,31.3422045,30.0521177,31.3422045
+Salim Ibrahim,Internist,4.0,"El-Rehab , Medical Complex 1",Others,"El-Rehab , Medical Complex 1",,,,,,,
+Amr Mostafa,Rheumatologist,4.5,"Heliopolis , hassan aflaton",Musculoskeletal,"Heliopolis , hassan aflaton",,,,,,,
+Walid El-Khatib,Dentist,5.0,90 Street,Others,90 Street,82.0,25.3765768,55.4139127,,,25.3765768,55.4139127
+Firas El-Baz,Gynecologist,4.5,"Faisal , King Faisal",Urinary and Reproductive,"Faisal , King Faisal",,,,,,,
+Yasmin Samir,Dentist,4.758470894874023,Naguib mahfouz,Others,Naguib mahfouz,84.0,31.9047407,35.1894873,,,31.9047407,35.1894873
+Youssef Farouk,Cardiologist,5.0,"El-Mansoura , el gomhoria street",Cardiovascular,"El-Mansoura , el gomhoria street",,,,,,,
+Aya El-Kholy,Gynecologist,4.5,Shoubra El-Kheima,Urinary and Reproductive,Shoubra El-Kheima,13.0,30.0800186,31.245269,30.1210367,31.2521633,30.0800186,31.245269
+Aya Samir,Cardiologist,4.5,Menouf,Cardiovascular,Menouf,86.0,30.4626909,30.9388785,,,30.4626909,30.9388785
+Yasmin Khalil,General Surgeon,4.5,"El-Sheikh Zayed , twin tower -",Musculoskeletal,"El-Sheikh Zayed , twin tower -",,,,,,,
+Heba El-Kassas,Nutritionist,4.5,"El-Obour City , 9th district",Others,"El-Obour City , 9th district",,,,,,,
+Noha Fahmy,Dentist,4.758470894874023,06-Oct,Others,06-Oct,68.0,22.5369227,113.9779003,,,22.5369227,113.9779003
+Sami El-Naggar,Surgical Oncologist,5.0,micheel bakhoum,Gastrointestinal and Liver,micheel bakhoum,,,,,,,
+Reem Saeed,Dermatologist,4.5,"Miamy , gamal abdelnasser",Skin,"Miamy , gamal abdelnasser",,,,,,,
+Ahmed El-Gohary,Orthopedist,5.0,El-Dokki,Musculoskeletal,El-Dokki,5.0,30.0388955,31.2125563,30.0388955,31.2125563,30.0388955,31.2125563
+Rami Saeed,Dermatologist,4.5,"Aga , elgalaa street",Skin,"Aga , elgalaa street",,,,,,,
+Hassan El-Naggar,Physiotherapist,4.5,"Banha , El Ashraf Street",Musculoskeletal,"Banha , El Ashraf Street",,,,,,,
+Walid El-Shennawy,Dermatologist,4.5,"Moharam Bek , moharm bek st",Skin,"Moharam Bek , moharm bek st",,,,,,,
+Noha Abdallah,Internist,4.0,"West El-Balad , kasr el neil st",Others,"West El-Balad , kasr el neil st",,,,,,,
+Jamal El-Khatib,Dentist,4.5,"6th of October , in front of wadi degla club",Others,"6th of October , in front of wadi degla club",,,,,,,
+Salim El-Sherbiny,Psychiatrist,4.5,Faisal,Neurological and Psychiatric,Faisal,75.0,30.0978834,32.4856496,30.0978834,32.4856496,30.0978834,32.4856496
+Zein El-Gendy,Physiotherapist,5.0,El-Mansoura,Musculoskeletal,El-Mansoura,0.0,36.786091,9.9000163,36.786091,9.9000163,36.786091,9.9000163
+Firas El-Kassas,Dermatologist,4.5,El-Ibrahimia,Skin,El-Ibrahimia,1.0,28.4243751,30.7932891,28.4243751,30.7932891,28.4243751,30.7932891
+Fady Hassan,Orthopedist,4.5,6th of October,Musculoskeletal,6th of October,2.0,29.9723458,30.9409205,29.9723458,30.9409205,29.9723458,30.9409205
+Fatma Farouk,Gynecologist,4.758470894874023,El-Haram,Urinary and Reproductive,El-Haram,3.0,29.9942663,31.1604591,29.9942663,31.1604591,29.9942663,31.1604591
+Amr Fahmy,Dermatologist,5.0,Nasr City,Skin,Nasr City,4.0,30.0521177,31.3422045,30.0521177,31.3422045,30.0521177,31.3422045
+Heba Nasser,Endocrinologist,4.5,"El-Haram , Station Mashaal",Others,"El-Haram , Station Mashaal",,,,,,,
+Ahmed Salah,Cardiologist,5.0,"El-Mokattam , Middle Hadaba",Cardiovascular,"El-Mokattam , Middle Hadaba",,,,,,,
+Adel Abdallah,Gynecologist,4.5,"El-Mansoura ,  hamza ebn abdelmotleb street",Urinary and Reproductive,"El-Mansoura ,  hamza ebn abdelmotleb street",,,,,,,
+Mariam El-Din,Internist,4.5,"El-Mansoura , abdo maarof street",Others,"El-Mansoura , abdo maarof street",,,,,,,
+Tamer Ibrahim,General Surgeon,5.0,"Hurghada City , Mohamed Said St. (Metro), El Kawther",Musculoskeletal,"Hurghada City , Mohamed Said St. (Metro), El Kawther",,,,,,,
+Mariam El-Gendy,Gynecologist,5.0,"El-Dokki , Mosdak Street",Urinary and Reproductive,"El-Dokki , Mosdak Street",,,,,,,
+Hassan Shalaby,General Surgeon,4.5,"El-Sheikh Zayed , twin tower -",Musculoskeletal,"El-Sheikh Zayed , twin tower -",,,,,,,
+Salim El-Sayed,Internist,4.0,"El-Rehab , Medical Complex 1",Others,"El-Rehab , Medical Complex 1",,,,,,,
+Fady Youssef,Cardiologist,5.0,"Sporting , Ahmed Allam st from elHorya Road",Cardiovascular,"Sporting , Ahmed Allam st from elHorya Road",,,,,,,
+Salim El-Kholy,Gastroenterologist,4.5,Fifth Settlement Medical Center,Gastrointestinal and Liver,Fifth Settlement Medical Center,,,,,,,
+Hani El-Din,Cardiologist,4.5,"El-Mansoura , Marinet Mubarak Madina Monawara st.",Cardiovascular,"El-Mansoura , Marinet Mubarak Madina Monawara st.",,,,,,,
+Firas El-Amin,Dentist,4.5,"6th of October , in front of wadi degla club",Others,"6th of October , in front of wadi degla club",,,,,,,
+Firas Hussein,Psychiatrist,4.5,Faisal,Neurological and Psychiatric,Faisal,75.0,30.0978834,32.4856496,30.0978834,32.4856496,30.0978834,32.4856496
+Rami Taha,Internist,4.5,"Mahalla , Talaat Harb street",Others,"Mahalla , Talaat Harb street",,,,,,,
+Aya Ibrahim,Gynecologist,4.5,Faisal street,Urinary and Reproductive,Faisal street,107.0,31.5587847,74.289134,,,31.5587847,74.289134
+Amr Farouk,Psychiatrist,4.5,Mahalla,Neurological and Psychiatric,Mahalla,108.0,40.0155864,64.7677952,40.0155864,64.7677952,40.0155864,64.7677952
+Noha El-Baz,General Surgeon,5.0,"El-Agamy , Goweida moftah street",Musculoskeletal,"El-Agamy , Goweida moftah street",,,,,,,
+Noha Salah,Internist,4.758470894874023,El-Dokki,Others,El-Dokki,5.0,30.0388955,31.2125563,30.0388955,31.2125563,30.0388955,31.2125563
+Ahmed Hassan,Dermatologist,4.5,"Aga , elgalaa street",Skin,"Aga , elgalaa street",,,,,,,
+Yasmin Mansour,Physiotherapist,4.758470894874023,"Heliopolis , Elmontazah St from ElHegaz St",Musculoskeletal,"Heliopolis , Elmontazah St from ElHegaz St",,,,,,,
+Mona El-Gohary,Dentist,4.5,Maadi Ring Road,Others,Maadi Ring Road,111.0,29.9934593,31.3850161,,,29.9934593,31.3850161
+Mariam El-Sayed,Gynecologist,5.0,"Hadayek El-Ahram , z",Urinary and Reproductive,"Hadayek El-Ahram , z",,,,,,,
+Ahmed El-Gendy,Cardiologist,4.758470894874023,El-Dokki,Cardiovascular,El-Dokki,5.0,30.0388955,31.2125563,30.0388955,31.2125563,30.0388955,31.2125563
+Hassan El-Shazly,Orthopedist,5.0,"El-Giza , Hamadan",Musculoskeletal,"El-Giza , Hamadan",,,,,,,
+Nour El-Gohary,Internist,4.5,"6th of October , al mehwar al markzi",Others,"6th of October , al mehwar al markzi",,,,,,,
+Fady El-Shazly,Dentist,4.5,Nasr City,Others,Nasr City,4.0,30.0521177,31.3422045,30.0521177,31.3422045,30.0521177,31.3422045
+Sami Farouk,Internist,4.0,06-Oct,Others,06-Oct,68.0,22.5369227,113.9779003,,,22.5369227,113.9779003
+Omar El-Kassas,Pediatrician,4.5,Heliopolis,Others,Heliopolis,114.0,-10.6753416,-38.2815308,-10.6753416,-38.2815308,-10.6753416,-38.2815308
+Sami Saeed,Physiotherapist,5.0,El-Mansoura,Musculoskeletal,El-Mansoura,0.0,36.786091,9.9000163,36.786091,9.9000163,36.786091,9.9000163
+Jamal Mahmoud,Dermatologist,4.5,El-Ibrahimia,Skin,El-Ibrahimia,1.0,28.4243751,30.7932891,28.4243751,30.7932891,28.4243751,30.7932891
+Zein Khalil,Orthopedist,4.5,6th of October,Musculoskeletal,6th of October,2.0,29.9723458,30.9409205,29.9723458,30.9409205,29.9723458,30.9409205
+Ali Zaki,Gynecologist,4.758470894874023,El-Haram,Urinary and Reproductive,El-Haram,3.0,29.9942663,31.1604591,29.9942663,31.1604591,29.9942663,31.1604591
+Rania El-Saied,Dermatologist,5.0,Nasr City,Skin,Nasr City,4.0,30.0521177,31.3422045,30.0521177,31.3422045,30.0521177,31.3422045
+Youssef Samir,General Surgeon,4.5,Helwan,Musculoskeletal,Helwan,77.0,29.8500001,31.333333,29.8500001,31.333333,29.8500001,31.333333
+Noha Farouk,Gynecologist,4.5,Faisal street,Urinary and Reproductive,Faisal street,107.0,31.5587847,74.289134,,,31.5587847,74.289134
+Mostafa Shalaby,Internist,4.5,"Mahalla , Talaat Harb street",Others,"Mahalla , Talaat Harb street",,,,,,,
+Mostafa Fathy,Psychiatrist,4.5,Mahalla,Neurological and Psychiatric,Mahalla,108.0,40.0155864,64.7677952,40.0155864,64.7677952,40.0155864,64.7677952
+Bassam El-Amin,Internist,4.5,El-Ibrahimia,Others,El-Ibrahimia,1.0,28.4243751,30.7932891,28.4243751,30.7932891,28.4243751,30.7932891
+Rania Saeed,Ophthalmologist,5.0,"El-Zagazig , tolba eweda street infront of salah salem hospital above lcwikiki","Eye, Ear and Nose","El-Zagazig , tolba eweda street infront of salah salem hospital above lcwikiki",,,,,,,
+Reem Ibrahim,Pediatrician,4.5,Alharam street,Others,Alharam street,70.0,15.2855885,44.2258985,,,15.2855885,44.2258985
+Amr El-Masry,Internist,4.758470894874023,El-Dokki,Others,El-Dokki,5.0,30.0388955,31.2125563,30.0388955,31.2125563,30.0388955,31.2125563
+Rami El-Naggar,Gynecologist,4.5,Heliopolis,Urinary and Reproductive,Heliopolis,114.0,-10.6753416,-38.2815308,-10.6753416,-38.2815308,-10.6753416,-38.2815308
+Noha El-Sayed,Internist,4.5,"Heliopolis , -behind Miliatry College",Others,"Heliopolis , -behind Miliatry College",,,,,,,
+Nadia Abdelrahman,Dermatologist,4.5,"Aga , elgalaa street",Skin,"Aga , elgalaa street",,,,,,,
+Dina Mansour,Physiotherapist,4.758470894874023,"Heliopolis , Elmontazah St from ElHegaz St",Musculoskeletal,"Heliopolis , Elmontazah St from ElHegaz St",,,,,,,
+Mahmoud El-Khatib,Dentist,4.5,Maadi Ring Road,Others,Maadi Ring Road,111.0,29.9934593,31.3850161,,,29.9934593,31.3850161
+Hani Hussein,Gynecologist,5.0,"Hadayek El-Ahram , z",Urinary and Reproductive,"Hadayek El-Ahram , z",,,,,,,
+Mahmoud Youssef,Cardiologist,4.758470894874023,El-Dokki,Cardiovascular,El-Dokki,5.0,30.0388955,31.2125563,30.0388955,31.2125563,30.0388955,31.2125563
+Fady El-Kassas,Orthopedist,5.0,"El-Giza , Hamadan",Musculoskeletal,"El-Giza , Hamadan",,,,,,,
+Rami El-Din,Internist,4.5,"6th of October , al mehwar al markzi",Others,"6th of October , al mehwar al markzi",,,,,,,
+Walid Zaki,Pediatrician,4.5,Heliopolis,Others,Heliopolis,114.0,-10.6753416,-38.2815308,-10.6753416,-38.2815308,-10.6753416,-38.2815308
+Firas Gaber,Dentist,4.5,"El-Dokki , Musadak Street-Infront Of Dunkin Donuts",Others,"El-Dokki , Musadak Street-Infront Of Dunkin Donuts",,,,,,,
+Aya Mahmoud,Urologist,5.0,"Nasr City , Mostafa elnhas St",Urinary and Reproductive,"Nasr City , Mostafa elnhas St",,,,,,,
+Fatma Shalaby,Gynecologist,5.0,"El-Maadi , 9th St.",Urinary and Reproductive,"El-Maadi , 9th St.",,,,,,,
+Salma Abdallah,Dentist,4.5,Nasr City,Others,Nasr City,4.0,30.0521177,31.3422045,30.0521177,31.3422045,30.0521177,31.3422045
+Heba Mahmoud,Internist,4.0,06-Oct,Others,06-Oct,68.0,22.5369227,113.9779003,,,22.5369227,113.9779003
+Mostafa Mostafa,Surgical Oncologist,4.0,"El-Mokattam , 9 street",Gastrointestinal and Liver,"El-Mokattam , 9 street",,,,,,,
+Sami El-Hadidy,Cardiologist,5.0,"El-Mohandessin , Alfawakh St",Cardiovascular,"El-Mohandessin , Alfawakh St",,,,,,,
+Ibrahim Khalil,Pediatrician,5.0,6th of October,Others,6th of October,2.0,29.9723458,30.9409205,29.9723458,30.9409205,29.9723458,30.9409205
+Youssef Youssef,Oncologist,5.0,"Tanta , El-Geish st.  with Al- Galaa st.- Al-Awkaf  tower",Others,"Tanta , El-Geish st.  with Al- Galaa st.- Al-Awkaf  tower",,,,,,,
+Sara Gaber,Nutritionist,5.0,"Hadayek El-Ahram , first entrance of first gate",Others,"Hadayek El-Ahram , first entrance of first gate",,,,,,,
+Mohamed Fahmy,Dentist,4.5,"Hadayek El-Ahram , El Geish street",Others,"Hadayek El-Ahram , El Geish street",,,,,,,
+Yasmin Mahmoud,Dermatologist,4.5,"El-Maadi , Al Nasr St. - Gazaer Square",Skin,"El-Maadi , Al Nasr St. - Gazaer Square",,,,,,,
+Reem Hussein,Dentist,4.5,El-Mokattam,Others,El-Mokattam,27.0,30.0221089,31.2683682,30.0221089,31.2683682,30.0221089,31.2683682
+Ibrahim El-Amin,Dentist,4.5,"El-Mokattam , Behinde pharmacy college MTI, AlHdba AlWosta",Others,"El-Mokattam , Behinde pharmacy college MTI, AlHdba AlWosta",,,,,,,
+Yasmin Ibrahim,Orthopedist,4.5,El-Rehab,Musculoskeletal,El-Rehab,126.0,30.063584,31.4889939,30.063584,31.4889939,30.063584,31.4889939
+Firas Kamel,Surgical Oncologist,4.0,"El-Mokattam , 9 street",Gastrointestinal and Liver,"El-Mokattam , 9 street",,,,,,,
+Ahmed Hussein,Hepatologist,4.5,"Heliopolis , botrous ghaly street",Gastrointestinal and Liver,"Heliopolis , botrous ghaly street",,,,,,,
+Youssef El-Din,Dermatologist,4.5,Hadayek El-Ahram,Skin,Hadayek El-Ahram,24.0,29.9699896,31.0973269,29.9699896,31.0973269,29.9699896,31.0973269
+Salim Gaber,Dermatologist,4.5,Hadayek El-Ahram,Skin,Hadayek El-Ahram,24.0,29.9699896,31.0973269,29.9699896,31.0973269,29.9699896,31.0973269
+Youssef El-Sayed,General Surgeon,4.5,"6th of October , Borie Plaza 1-Elhossary Square",Musculoskeletal,"6th of October , Borie Plaza 1-Elhossary Square",,,,,,,
+Ibrahim El-Kholy,Internist,4.5,"Imbaba , Elwahda street",Others,"Imbaba , Elwahda street",,,,,,,
+Youssef El-Masry,Urologist,4.5,Fifth Settlement Medical Center,Urinary and Reproductive,Fifth Settlement Medical Center,,,,,,,
+Mohamed El-Baz,Physiotherapist,5.0,El-Mansoura,Musculoskeletal,El-Mansoura,0.0,36.786091,9.9000163,36.786091,9.9000163,36.786091,9.9000163
+Mona El-Shennawy,Dermatologist,4.5,El-Ibrahimia,Skin,El-Ibrahimia,1.0,28.4243751,30.7932891,28.4243751,30.7932891,28.4243751,30.7932891
+Walid Abdelrahman,Orthopedist,4.5,6th of October,Musculoskeletal,6th of October,2.0,29.9723458,30.9409205,29.9723458,30.9409205,29.9723458,30.9409205
+Salma Gaber,Gynecologist,4.758470894874023,El-Haram,Urinary and Reproductive,El-Haram,3.0,29.9942663,31.1604591,29.9942663,31.1604591,29.9942663,31.1604591
+Sami Mostafa,Dermatologist,5.0,Nasr City,Skin,Nasr City,4.0,30.0521177,31.3422045,30.0521177,31.3422045,30.0521177,31.3422045
+Nader Farouk,Cardiologist,5.0,"El-Mohandessin , Alfawakh St",Cardiovascular,"El-Mohandessin , Alfawakh St",,,,,,,
+Rania El-Naggar,Dentist,4.5,"Hadayek El-Ahram , El Geish street",Others,"Hadayek El-Ahram , El Geish street",,,,,,,
+Mahmoud El-Kassas,Dentist,4.5,"El-Haram , Haram",Others,"El-Haram , Haram",,,,,,,
+Walid El-Baz,Dentist,5.0,"El-Zaitoun , Selim Elawal Street-Egypt Air Towers-Above Eltayaran Supermarket",Others,"El-Zaitoun , Selim Elawal Street-Egypt Air Towers-Above Eltayaran Supermarket",,,,,,,
+Mostafa El-Sherif,Neurosurgeon,4.758470894874023,"Nasr City , ahmad elzumor",Neurological and Psychiatric,"Nasr City , ahmad elzumor",,,,,,,
+Amira Nasser,Infertility Specialist,4.5,El-Mokattam,Urinary and Reproductive,El-Mokattam,27.0,30.0221089,31.2683682,30.0221089,31.2683682,30.0221089,31.2683682
+Amira Khalil,Orthopedist,5.0,El-Mohandessin,Musculoskeletal,El-Mohandessin,133.0,30.0583951,31.2020231,30.0583951,31.2020231,30.0583951,31.2020231
+Rania Kamel,Gynecologist,5.0,151 Street - Horreya Square,Urinary and Reproductive,151 Street - Horreya Square,,,,,,,
+Sami Shalaby,Nutritionist,5.0,"Hadayek El-Ahram , first entrance of first gate",Others,"Hadayek El-Ahram , first entrance of first gate",,,,,,,
+Bassam El-Din,Ophthalmologist,4.0,"Shibin El-Kom , hakma square","Eye, Ear and Nose","Shibin El-Kom , hakma square",,,,,,,
+Laila El-Khatib,Oncologist,5.0,"Tanta , El-Geish st.  with Al- Galaa st.- Al-Awkaf  tower",Others,"Tanta , El-Geish st.  with Al- Galaa st.- Al-Awkaf  tower",,,,,,,
+Tamer El-Shazly,Dentist,4.758470894874023,north Teseen ST,Others,north Teseen ST,,,,,,,
+Ali El-Khatib,General Surgeon,4.5,06-Oct,Musculoskeletal,06-Oct,68.0,22.5369227,113.9779003,,,22.5369227,113.9779003
+Zein El-Amin,Dentist,4.758470894874023,El-Maadi,Others,El-Maadi,50.0,36.6117091,4.6680878,36.6117091,4.6680878,36.6117091,4.6680878
+Fatma Abdelrahman,Urologist,4.5,"El-Zagazig , obour bridge next to sawaf restaurant",Urinary and Reproductive,"El-Zagazig , obour bridge next to sawaf restaurant",,,,,,,
+Nour Ibrahim,Physiotherapist,5.0,El-Obour City,Musculoskeletal,El-Obour City,138.0,30.1914,31.450548,30.1914,31.450548,30.1914,31.450548
+Dina El-Hadidy,Physiotherapist,5.0,El-Rehab,Musculoskeletal,El-Rehab,126.0,30.063584,31.4889939,30.063584,31.4889939,30.063584,31.4889939
+Dina Hassan,ENT Doctor,5.0,"6th of October , Central Axis","Eye, Ear and Nose","6th of October , Central Axis",,,,,,,
+Heba El-Shennawy,Dentist,5.0,Imbaba,Others,Imbaba,140.0,14.5618548,0.8720522,14.5618548,0.8720522,14.5618548,0.8720522
+Omar El-Sherif,Cardiologist,5.0,El-Maadi,Cardiovascular,El-Maadi,50.0,36.6117091,4.6680878,36.6117091,4.6680878,36.6117091,4.6680878
+Bassam Fahmy,Neurologist,4.5,Shibin El-Kom,Neurological and Psychiatric,Shibin El-Kom,141.0,30.5545106,31.0097923,30.5545106,31.0097923,30.5545106,31.0097923
+Hassan Hassan,Gynecologist,5.0,"Banha , 5 ibn Hagag street",Urinary and Reproductive,"Banha , 5 ibn Hagag street",,,,,,,
+Youssef Mahmoud,Pediatrician,5.0,"El-Mansoura , 6 october street branched from ahmed maher street",Others,"El-Mansoura , 6 october street branched from ahmed maher street",,,,,,,
+Laila El-Baz,General Surgeon,4.5,Nasr City,Musculoskeletal,Nasr City,4.0,30.0521177,31.3422045,30.0521177,31.3422045,30.0521177,31.3422045
+Sara Hussein,Neurologist,4.5,"Nasr City , AbdElhamid awad",Neurological and Psychiatric,"Nasr City , AbdElhamid awad",,,,,,,
+Hassan El-Gohary,Urologist,4.5,"El-Maadi , Elnasr Street",Urinary and Reproductive,"El-Maadi , Elnasr Street",,,,,,,
+Sami El-Shazly,Physiotherapist,5.0,El-Mansoura,Musculoskeletal,El-Mansoura,0.0,36.786091,9.9000163,36.786091,9.9000163,36.786091,9.9000163
+Tamer El-Sherbiny,Dermatologist,4.5,El-Ibrahimia,Skin,El-Ibrahimia,1.0,28.4243751,30.7932891,28.4243751,30.7932891,28.4243751,30.7932891
+Bassam Samir,Orthopedist,4.5,6th of October,Musculoskeletal,6th of October,2.0,29.9723458,30.9409205,29.9723458,30.9409205,29.9723458,30.9409205
+Zein El-Gohary,Gynecologist,4.758470894874023,El-Haram,Urinary and Reproductive,El-Haram,3.0,29.9942663,31.1604591,29.9942663,31.1604591,29.9942663,31.1604591
+Fatma El-Kassas,Dermatologist,5.0,Nasr City,Skin,Nasr City,4.0,30.0521177,31.3422045,30.0521177,31.3422045,30.0521177,31.3422045
+Khaled Mostafa,Cardiologist,5.0,"West El-Balad , el tahreer street",Cardiovascular,"West El-Balad , el tahreer street",,,,,,,
+Rami Gaber,Pediatrician,5.0,El-Badrashin,Others,El-Badrashin,147.0,29.8531211,31.2780759,29.8531211,31.2780759,29.8531211,31.2780759
+Tamer Zaki,Gastroenterologist,5.0,"Faisal , Elatabaa Building Fasil Elnadii St",Gastrointestinal and Liver,"Faisal , Elatabaa Building Fasil Elnadii St",,,,,,,
+Bassam El-Sherbiny,Andrologist,5.0,El-Mansoura,Urinary and Reproductive,El-Mansoura,0.0,36.786091,9.9000163,36.786091,9.9000163,36.786091,9.9000163
+Heba El-Hadidy,Orthopedist,5.0,El-Zagazig,Musculoskeletal,El-Zagazig,51.0,30.5950402,31.5125611,30.5886074,31.4819297,30.5950402,31.5125611
+Sami El-Amin,ENT Doctor,5.0,"El-Mansoura , el mahta square","Eye, Ear and Nose","El-Mansoura , el mahta square",,,,,,,
+Youssef El-Naggar,ENT Doctor,5.0,"Faisal , khaled ibn waleed st","Eye, Ear and Nose","Faisal , khaled ibn waleed st",,,,,,,
+Fatma El-Hadidy,Physiotherapist,5.0,El-Rehab,Musculoskeletal,El-Rehab,126.0,30.063584,31.4889939,30.063584,31.4889939,30.063584,31.4889939
+Reem Mostafa,Urologist,4.5,"El-Zagazig , obour bridge next to sawaf restaurant",Urinary and Reproductive,"El-Zagazig , obour bridge next to sawaf restaurant",,,,,,,
+Hassan El-Sayed,Gynecologist,5.0,"Nasr City , mostafa elnahas",Urinary and Reproductive,"Nasr City , mostafa elnahas",,,,,,,
+Omar El-Gohary,ENT Doctor,5.0,"6th of October , Central Axis","Eye, Ear and Nose","6th of October , Central Axis",,,,,,,
+Noha El-Hadidy,Dentist,5.0,Imbaba,Others,Imbaba,140.0,14.5618548,0.8720522,14.5618548,0.8720522,14.5618548,0.8720522
+Ahmed El-Sherif,Cardiologist,5.0,El-Maadi,Cardiovascular,El-Maadi,50.0,36.6117091,4.6680878,36.6117091,4.6680878,36.6117091,4.6680878
+Firas Samir,Neurologist,4.5,Shibin El-Kom,Neurological and Psychiatric,Shibin El-Kom,141.0,30.5545106,31.0097923,30.5545106,31.0097923,30.5545106,31.0097923
+Sami Mahmoud,Pediatrician,5.0,"El-Mansoura , 6 october street branched from ahmed maher street",Others,"El-Mansoura , 6 october street branched from ahmed maher street",,,,,,,
+Amr Khalil,General Surgeon,4.5,Nasr City,Musculoskeletal,Nasr City,4.0,30.0521177,31.3422045,30.0521177,31.3422045,30.0521177,31.3422045
+Laila El-Sherbiny,Gynecologist,5.0,"Banha , 5 ibn Hagag street",Urinary and Reproductive,"Banha , 5 ibn Hagag street",,,,,,,
+Rami Hassan,Dentist,5.0,6th of October,Others,6th of October,2.0,29.9723458,30.9409205,29.9723458,30.9409205,29.9723458,30.9409205
+Rania El-Din,Dentist,4.5,"Heliopolis , Al Hegaz - Heliopolis Square.",Others,"Heliopolis , Al Hegaz - Heliopolis Square.",,,,,,,
+Mahmoud El-Mahdy,Orthopedist,5.0,"El-Manyal , manyal street",Musculoskeletal,"El-Manyal , manyal street",,,,,,,
+Jamal Kamel,Pediatrician,4.5,Nasr City,Others,Nasr City,4.0,30.0521177,31.3422045,30.0521177,31.3422045,30.0521177,31.3422045
+Walid El-Sayed,Endocrinologist,4.5,north teseen street,Others,north teseen street,,,,,,,
+Amr Shalaby,Neurosurgeon,5.0,"El-Maadi , Sakr Quraysh, Al Bahs Al Genaea",Neurological and Psychiatric,"El-Maadi , Sakr Quraysh, Al Bahs Al Genaea",,,,,,,
+Aya Taha,Cardiologist,5.0,Heliopolis,Cardiovascular,Heliopolis,114.0,-10.6753416,-38.2815308,-10.6753416,-38.2815308,-10.6753416,-38.2815308
+Ahmed Mahmoud,Surgical Oncologist,5.0,"El-Giza , mourad",Gastrointestinal and Liver,"El-Giza , mourad",,,,,,,
+Aya El-Gendy,ENT Doctor,4.5,6th of October,"Eye, Ear and Nose",6th of October,2.0,29.9723458,30.9409205,29.9723458,30.9409205,29.9723458,30.9409205
+Adel El-Gohary,Neurosurgeon,5.0,6th of October,Neurological and Psychiatric,6th of October,2.0,29.9723458,30.9409205,29.9723458,30.9409205,29.9723458,30.9409205
+Heba Youssef,Cardiologist,4.5,Janaklees,Cardiovascular,Janaklees,,,,,,,
+Nader El-Baz,Dentist,4.5,"El-Manyal , Almanial main Street",Others,"El-Manyal , Almanial main Street",,,,,,,
+Walid Mansour,Physiotherapist,5.0,El-Mansoura,Musculoskeletal,El-Mansoura,0.0,36.786091,9.9000163,36.786091,9.9000163,36.786091,9.9000163
+Reem El-Masry,Dermatologist,4.5,El-Ibrahimia,Skin,El-Ibrahimia,1.0,28.4243751,30.7932891,28.4243751,30.7932891,28.4243751,30.7932891
+Rania El-Shennawy,Orthopedist,4.5,6th of October,Musculoskeletal,6th of October,2.0,29.9723458,30.9409205,29.9723458,30.9409205,29.9723458,30.9409205
+Khaled El-Mahdy,Gynecologist,4.758470894874023,El-Haram,Urinary and Reproductive,El-Haram,3.0,29.9942663,31.1604591,29.9942663,31.1604591,29.9942663,31.1604591
+Tamer El-Kholy,Dermatologist,5.0,Nasr City,Skin,Nasr City,4.0,30.0521177,31.3422045,30.0521177,31.3422045,30.0521177,31.3422045
+Fady Mostafa,ENT Doctor,5.0,"El-Mansoura , el mahta square","Eye, Ear and Nose","El-Mansoura , el mahta square",,,,,,,
+Ibrahim Ibrahim,Ophthalmologist,5.0,"El-Fayoum city , elmsla next to misr for insurance building next to city tower","Eye, Ear and Nose","El-Fayoum city , elmsla next to misr for insurance building next to city tower",,,,,,,
+Omar El-Gendy,General Surgeon,4.5,"Shibin El-Kom , sharaf square dewan tower",Musculoskeletal,"Shibin El-Kom , sharaf square dewan tower",,,,,,,
+Amira Mansour,Gynecologist,5.0,El-Shorouk,Urinary and Reproductive,El-Shorouk,161.0,26.1216587,34.2553483,26.1216587,34.2553483,26.1216587,34.2553483
+Noha El-Sherif,Physiotherapist,5.0,"Banha , behind mohafza",Musculoskeletal,"Banha , behind mohafza",,,,,,,
+Walid Abdallah,Obesity Surgeon,5.0,Shibin El-Kom,Urinary and Reproductive,Shibin El-Kom,141.0,30.5545106,31.0097923,30.5545106,31.0097923,30.5545106,31.0097923
+Mona Abdelrahman,Neurosurgeon,5.0,6th of October,Neurological and Psychiatric,6th of October,2.0,29.9723458,30.9409205,29.9723458,30.9409205,29.9723458,30.9409205
+Omar El-Mahdy,General Surgeon,5.0,"El-Zagazig , tolba eweda street",Musculoskeletal,"El-Zagazig , tolba eweda street",,,,,,,
+Omar Fathy,Rheumatologist,4.0,"El-Sayeda Zainab , Port Saeed Street",Musculoskeletal,"El-Sayeda Zainab , Port Saeed Street",,,,,,,
+Amira El-Shennawy,Dermatologist,4.5,"West El-Balad , Mohamed farid - Abdein",Skin,"West El-Balad , Mohamed farid - Abdein",,,,,,,
+Rania Taha,Neurosurgeon,5.0,"El-Maadi , Sakr Quraysh, Al Bahs Al Genaea",Neurological and Psychiatric,"El-Maadi , Sakr Quraysh, Al Bahs Al Genaea",,,,,,,
+Mariam El-Shazly,Cardiologist,4.5,Janaklees,Cardiovascular,Janaklees,,,,,,,
+Noha Mostafa,Dentist,4.5,"El-Manyal , Almanial main Street",Others,"El-Manyal , Almanial main Street",,,,,,,
+Amr Abdelrahman,Internist,4.5,"El-Mansoura , kanat el swiss st",Others,"El-Mansoura , kanat el swiss st",,,,,,,
+Omar El-Shennawy,Dentist,5.0,Faisal,Others,Faisal,75.0,30.0978834,32.4856496,30.0978834,32.4856496,30.0978834,32.4856496
+Salma El-Sayed,Ophthalmologist,5.0,"Heliopolis , hegaz street","Eye, Ear and Nose","Heliopolis , hegaz street",,,,,,,
+Ali Mahmoud,Dermatologist,4.5,"10th of Ramadan , Ordinia St.",Skin,"10th of Ramadan , Ordinia St.",,,,,,,
+Tamer Khalil,ENT Doctor,4.5,6th of October,"Eye, Ear and Nose",6th of October,2.0,29.9723458,30.9409205,29.9723458,30.9409205,29.9723458,30.9409205
+Youssef Khalil,Cardiologist,5.0,Maadi Ring Road,Cardiovascular,Maadi Ring Road,111.0,29.9934593,31.3850161,,,29.9934593,31.3850161
+Yasmin El-Masry,Gynecologist,4.5,El-Maadi,Urinary and Reproductive,El-Maadi,50.0,36.6117091,4.6680878,36.6117091,4.6680878,36.6117091,4.6680878
+Youssef Abdallah,Ophthalmologist,5.0,"Nasr City , Mohamed Radwan ST _ Al Hay Al Asher","Eye, Ear and Nose","Nasr City , Mohamed Radwan ST _ Al Hay Al Asher",,,,,,,
+Sami Hassan,Dentist,5.0,Heliopolis,Others,Heliopolis,114.0,-10.6753416,-38.2815308,-10.6753416,-38.2815308,-10.6753416,-38.2815308
+Laila Mansour,General Surgeon,4.5,Shibin El-Kom,Musculoskeletal,Shibin El-Kom,141.0,30.5545106,31.0097923,30.5545106,31.0097923,30.5545106,31.0097923
+Mostafa Ibrahim,Endocrinologist,4.5,north teseen street,Others,north teseen street,,,,,,,
+Amira Salah,Pediatrician,4.5,Nasr City,Others,Nasr City,4.0,30.0521177,31.3422045,30.0521177,31.3422045,30.0521177,31.3422045
+Sami El-Baz,Surgical Oncologist,5.0,"El-Giza , mourad",Gastrointestinal and Liver,"El-Giza , mourad",,,,,,,
+Amira El-Din,Cardiologist,5.0,6th of October,Cardiovascular,6th of October,2.0,29.9723458,30.9409205,29.9723458,30.9409205,29.9723458,30.9409205
+Yasmin Shalaby,Physiotherapist,5.0,El-Mansoura,Musculoskeletal,El-Mansoura,0.0,36.786091,9.9000163,36.786091,9.9000163,36.786091,9.9000163
+Omar Hassan,Dermatologist,4.5,El-Ibrahimia,Skin,El-Ibrahimia,1.0,28.4243751,30.7932891,28.4243751,30.7932891,28.4243751,30.7932891
+Ali Mostafa,Orthopedist,4.5,6th of October,Musculoskeletal,6th of October,2.0,29.9723458,30.9409205,29.9723458,30.9409205,29.9723458,30.9409205
+Dina El-Masry,Gynecologist,4.758470894874023,El-Haram,Urinary and Reproductive,El-Haram,3.0,29.9942663,31.1604591,29.9942663,31.1604591,29.9942663,31.1604591
+Firas Saeed,Dermatologist,5.0,Nasr City,Skin,Nasr City,4.0,30.0521177,31.3422045,30.0521177,31.3422045,30.0521177,31.3422045
+Reem El-Mahdy,Gynecologist,4.5,"New Cairo , abdallah ibn salama",Urinary and Reproductive,"New Cairo , abdallah ibn salama",,,,,,,
+Salma El-Sherif,Pediatrician,4.5,Miamy,Others,Miamy,35.0,-23.4461564,-51.8861956,-23.4461564,-51.8861956,-23.4461564,-51.8861956
+Mona Mostafa,Orthopedist,4.5,"El-Maadi ,  ElNasr",Musculoskeletal,"El-Maadi ,  ElNasr",,,,,,,
+Adel Hussein,Cardiologist,4.5,"El-Sheikh Zayed , Twin Towers-Elmehwar Elmarkazi",Cardiovascular,"El-Sheikh Zayed , Twin Towers-Elmehwar Elmarkazi",,,,,,,
+Mahmoud El-Masry,Cardiologist,5.0,"El-Maadi , 4 street 100 from street 105 - Horria sq Maadi",Cardiovascular,"El-Maadi , 4 street 100 from street 105 - Horria sq Maadi",,,,,,,
+Mona Fahmy,Dermatologist,4.5,"Faisal , king Faisal St -tamimi",Skin,"Faisal , king Faisal St -tamimi",,,,,,,
+Sami Kamel,General Surgeon,4.5,"Bakos , Moastafa kamel",Musculoskeletal,"Bakos , Moastafa kamel",,,,,,,
+Salim Zaki,Orthopedist,4.5,El-Haram,Musculoskeletal,El-Haram,3.0,29.9942663,31.1604591,29.9942663,31.1604591,29.9942663,31.1604591
+Rami El-Kassas,Orthopedist,4.5,6th of October,Musculoskeletal,6th of October,2.0,29.9723458,30.9409205,29.9723458,30.9409205,29.9723458,30.9409205
+Mostafa El-Kholy,ENT Doctor,4.5,"Heliopolis , Triumph square (Nakhla moteey)","Eye, Ear and Nose","Heliopolis , Triumph square (Nakhla moteey)",,,,,,,
+Fady Hussein,Pulmonologist,4.5,"El-Matareya , Beet El Ezz 2 building - Matareya square - Building A - Third floor",Respiratory,"El-Matareya , Beet El Ezz 2 building - Matareya square - Building A - Third floor",,,,,,,
+Heba Taha,Psychiatrist,4.0,"Heliopolis , Esmail Ramzy Street",Neurological and Psychiatric,"Heliopolis , Esmail Ramzy Street",,,,,,,
+Nadia Saeed,Dermatologist,4.5,"El-Manyal , Manial",Skin,"El-Manyal , Manial",,,,,,,
+Youssef El-Kholy,Urologist,4.5,"El-Zaitoun , salim el-Awal st.",Urinary and Reproductive,"El-Zaitoun , salim el-Awal st.",,,,,,,
+Ahmed Abdallah,Allergist,4.5,"Faisal , king faisal street",Skin,"Faisal , king faisal street",,,,,,,
+Heba El-Masry,Cardiologist,4.5,"El-Mohandessin , Omar Toson",Cardiovascular,"El-Mohandessin , Omar Toson",,,,,,,
+Reem El-Khatib,Gynecologist,4.5,"El-Obour City , Al Obour center",Urinary and Reproductive,"El-Obour City , Al Obour center",,,,,,,
+Hassan Mahmoud,Nutritionist,4.5,Faisal,Others,Faisal,75.0,30.0978834,32.4856496,30.0978834,32.4856496,30.0978834,32.4856496
+Youssef El-Sherif,Orthopedist,4.5,"Faisal , king faisal",Musculoskeletal,"Faisal , king faisal",,,,,,,
+Noha Samir,Oncologist,5.0,"El-Maadi , ElNasr",Others,"El-Maadi , ElNasr",,,,,,,
+Mahmoud El-Shennawy,Physiotherapist,5.0,El-Mansoura,Musculoskeletal,El-Mansoura,0.0,36.786091,9.9000163,36.786091,9.9000163,36.786091,9.9000163
+Mariam El-Shennawy,Dermatologist,4.5,El-Ibrahimia,Skin,El-Ibrahimia,1.0,28.4243751,30.7932891,28.4243751,30.7932891,28.4243751,30.7932891
+Nadia Kamel,Orthopedist,4.5,6th of October,Musculoskeletal,6th of October,2.0,29.9723458,30.9409205,29.9723458,30.9409205,29.9723458,30.9409205
+Mostafa El-Amin,Gynecologist,4.758470894874023,El-Haram,Urinary and Reproductive,El-Haram,3.0,29.9942663,31.1604591,29.9942663,31.1604591,29.9942663,31.1604591
+Sara El-Naggar,Dermatologist,5.0,Nasr City,Skin,Nasr City,4.0,30.0521177,31.3422045,30.0521177,31.3422045,30.0521177,31.3422045
+Nadia El-Shazly,Audiologist,4.5,"Faisal , fisal street","Eye, Ear and Nose","Faisal , fisal street",,,,,,,
+Sami Khalil,Physiotherapist,4.0,"El-Maadi , street 287",Musculoskeletal,"El-Maadi , street 287",,,,,,,
+Nour El-Shennawy,Dentist,4.5,El-Mansoura,Others,El-Mansoura,0.0,36.786091,9.9000163,36.786091,9.9000163,36.786091,9.9000163
+Nader El-Gohary,Dentist,4.5,"Nasr City ,  Mohamed Almakreif",Others,"Nasr City ,  Mohamed Almakreif",,,,,,,
+Hani El-Amin,Dentist,4.5,"Madinaty , Medical Center",Others,"Madinaty , Medical Center",,,,,,,
+Walid Shalaby,Ophthalmologist,5.0,"Hadayek El-Kobba , Abdelgleel street from Ibn Sender","Eye, Ear and Nose","Hadayek El-Kobba , Abdelgleel street from Ibn Sender",,,,,,,
+Noha El-Sherbiny,Gynecologist,4.5,"El-Haram , Haram Street Nasr eldin Station",Urinary and Reproductive,"El-Haram , Haram Street Nasr eldin Station",,,,,,,
+Fady Abdallah,Psychiatrist,4.5,"Victoria , Gamal Abdelnaser",Neurological and Psychiatric,"Victoria , Gamal Abdelnaser",,,,,,,
+Rami Ibrahim,Dentist,4.5,"El-Haram , 93 el haram street - beside city mall",Others,"El-Haram , 93 el haram street - beside city mall",,,,,,,
+Ahmed Taha,Physiotherapist,4.0,"6th of October , Central Axis",Musculoskeletal,"6th of October , Central Axis",,,,,,,
+Reem Zaki,Physiotherapist,4.5,"El-Haram , madkour",Musculoskeletal,"El-Haram , madkour",,,,,,,
+Fady Saeed,Dentist,4.5,"El-Sheikh Zayed , Beverly Hills-gate 9",Others,"El-Sheikh Zayed , Beverly Hills-gate 9",,,,,,,
+Hassan Gaber,Dentist,4.5,"Mahalla , El-shon",Others,"Mahalla , El-shon",,,,,,,
+Mostafa El-Saied,Dentist,4.5,"El-Haram ,  Salam",Others,"El-Haram ,  Salam",,,,,,,
+Zein El-Hadidy,Ophthalmologist,4.5,"Assiut city , Yusri Ragheb St.","Eye, Ear and Nose","Assiut city , Yusri Ragheb St.",,,,,,,
+Hassan El-Shennawy,Dentist,4.5,"Nasr City , makram ebeid",Others,"Nasr City , makram ebeid",,,,,,,
+Hassan Abdallah,Dentist,4.5,"Banha , el safaa",Others,"Banha , el safaa",,,,,,,
+Rami Fahmy,General Surgeon,4.5,"El-Maadi , Al Nasr Street",Musculoskeletal,"El-Maadi , Al Nasr Street",,,,,,,
+Zein El-Mahdy,Gynecologist,5.0,"El-Dokki , El Tahrir st.",Urinary and Reproductive,"El-Dokki , El Tahrir st.",,,,,,,
+Adel El-Mahdy,Dentist,4.5,"Nasr City , abo dawood zahry",Others,"Nasr City , abo dawood zahry",,,,,,,
+Nader Shalaby,Dentist,4.5,"New Cairo , 90 Street",Others,"New Cairo , 90 Street",,,,,,,
+Mahmoud El-Amin,Internist,4.5,"El-Mansoura , Al seka algdeda",Others,"El-Mansoura , Al seka algdeda",,,,,,,
+Sara Fathy,Orthopedist,4.5,"Imbaba , Main wehda street",Musculoskeletal,"Imbaba , Main wehda street",,,,,,,
+Mahmoud Taha,Nutritionist,5.0,El-Sheikh Zayed,Others,El-Sheikh Zayed,204.0,30.048347,30.9832235,30.048347,30.9832235,30.048347,30.9832235
+Adel Khalil,ENT Doctor,4.0,"Ain Shams , 70 Khaled Ebn El Waleed st., From Mostafa Hafez st., Beside Zaher, Guesr El Suez st., In front of El Shams club","Eye, Ear and Nose","Ain Shams , 70 Khaled Ebn El Waleed st., From Mostafa Hafez st., Beside Zaher, Guesr El Suez st., In front of El Shams club",,,,,,,
+Mariam El-Saied,Dentist,4.5,"Faisal , hassan mohamed station-Feisal",Others,"Faisal , hassan mohamed station-Feisal",,,,,,,
+Jamal Shalaby,Physiotherapist,4.5,"Shibin El-Kom , Abo Bakr Elsedeek",Musculoskeletal,"Shibin El-Kom , Abo Bakr Elsedeek",,,,,,,
+Rami Mahmoud,Dentist,4.0,"Hadayek El-Ahram , 2nd gate khafra",Others,"Hadayek El-Ahram , 2nd gate khafra",,,,,,,
+Omar El-Baz,Physiotherapist,5.0,El-Mansoura,Musculoskeletal,El-Mansoura,0.0,36.786091,9.9000163,36.786091,9.9000163,36.786091,9.9000163
+Zein El-Khatib,Dermatologist,4.5,El-Ibrahimia,Skin,El-Ibrahimia,1.0,28.4243751,30.7932891,28.4243751,30.7932891,28.4243751,30.7932891
+Bassam Taha,Orthopedist,4.5,6th of October,Musculoskeletal,6th of October,2.0,29.9723458,30.9409205,29.9723458,30.9409205,29.9723458,30.9409205
+Nader Salah,Gynecologist,4.758470894874023,El-Haram,Urinary and Reproductive,El-Haram,3.0,29.9942663,31.1604591,29.9942663,31.1604591,29.9942663,31.1604591
+Omar Farouk,Dermatologist,5.0,Nasr City,Skin,Nasr City,4.0,30.0521177,31.3422045,30.0521177,31.3422045,30.0521177,31.3422045
+Ahmed Mostafa,Internist,4.5,"El-Manyal , Saeed Tho Al fakar Street - branched from El basha square",Others,"El-Manyal , Saeed Tho Al fakar Street - branched from El basha square",,,,,,,
+Sara Fahmy,Vascular Surgeon,4.5,"6th of October , El Mehwar El Markazy",Musculoskeletal,"6th of October , El Mehwar El Markazy",,,,,,,
+Mostafa El-Hadidy,Dentist,4.5,"Heliopolis ,  Bridge",Others,"Heliopolis ,  Bridge",,,,,,,
+Adel Taha,ENT Doctor,4.5,"El-Rehab , Rehab , medical centre 2 , clinic 109","Eye, Ear and Nose","El-Rehab , Rehab , medical centre 2 , clinic 109",,,,,,,
+Hani Zaki,Cardiologist,4.5,"El-Sheikh Zayed , Twin Towers",Cardiovascular,"El-Sheikh Zayed , Twin Towers",,,,,,,
+Fatma El-Baz,Internist,4.5,"Nasr City ,  ahmed el zomor",Others,"Nasr City ,  ahmed el zomor",,,,,,,
+Reem Nasser,Gynecologist,4.5,"El-Agamy , Kilometer 21 square,",Urinary and Reproductive,"El-Agamy , Kilometer 21 square,",,,,,,,
+Dina El-Saied,Pediatrician,4.5,"Nasr City , Mostafa nhas St",Others,"Nasr City , Mostafa nhas St",,,,,,,
+Reem El-Kholy,ENT Doctor,4.0,"El-Mokattam , 9 S.t","Eye, Ear and Nose","El-Mokattam , 9 S.t",,,,,,,
+Nadia Hassan,Plastic Surgeon,4.5,"Sporting , Port Saeid St.,",Musculoskeletal,"Sporting , Port Saeid St.,",,,,,,,
+Hani Mostafa,Oncologist,4.5,El-Haram,Others,El-Haram,3.0,29.9942663,31.1604591,29.9942663,31.1604591,29.9942663,31.1604591
+Salim El-Saied,Dentist,4.5,"6th of October , omrania tanua",Others,"6th of October , omrania tanua",,,,,,,
+Khaled El-Din,Cardiologist,5.0,"West El-Balad ,  Mohamed farid",Cardiovascular,"West El-Balad ,  Mohamed farid",,,,,,,
+Noha El-Mahdy,Cardiologist,4.5,"El-Agamy , Alrxandria- matrouh road",Cardiovascular,"El-Agamy , Alrxandria- matrouh road",,,,,,,
+Mohamed El-Khatib,Orthopedist,4.5,Nasr City,Musculoskeletal,Nasr City,4.0,30.0521177,31.3422045,30.0521177,31.3422045,30.0521177,31.3422045
+Yasmin El-Kholy,Urologist,4.0,"Heliopolis , bagdad st.",Urinary and Reproductive,"Heliopolis , bagdad st.",,,,,,,
+Reem Youssef,Ophthalmologist,4.5,"Nasr City , mostafa el nahhas street","Eye, Ear and Nose","Nasr City , mostafa el nahhas street",,,,,,,
+Khaled El-Gohary,Rheumatologist,4.5,"El-Zagazig , vilal gamaa street next to madina mosque",Musculoskeletal,"El-Zagazig , vilal gamaa street next to madina mosque",,,,,,,
+Fatma El-Sayed,Urologist,4.0,"El-Mohandessin ,  shehab street",Urinary and Reproductive,"El-Mohandessin ,  shehab street",,,,,,,
+Mostafa Samir,Dermatologist,4.5,"El-Maadi ,  El Horya Square",Skin,"El-Maadi ,  El Horya Square",,,,,,,
+Omar Ibrahim,Cardiologist,4.5,"El-Sheikh Zayed , Twin Towers-Elmehwar Elmarkazi",Cardiovascular,"El-Sheikh Zayed , Twin Towers-Elmehwar Elmarkazi",,,,,,,
+Fady El-Amin,Vascular Surgeon,4.5,"El-Manyal , El Manyal",Musculoskeletal,"El-Manyal , El Manyal",,,,,,,
+Nour Mansour,Gynecologist,4.5,"El-Obour City , Al Obour center",Urinary and Reproductive,"El-Obour City , Al Obour center",,,,,,,
+Nadia Abdallah,Physiotherapist,5.0,El-Mansoura,Musculoskeletal,El-Mansoura,0.0,36.786091,9.9000163,36.786091,9.9000163,36.786091,9.9000163
+Nour Gaber,Dermatologist,4.5,El-Ibrahimia,Skin,El-Ibrahimia,1.0,28.4243751,30.7932891,28.4243751,30.7932891,28.4243751,30.7932891
+Mahmoud El-Sherif,Orthopedist,4.5,6th of October,Musculoskeletal,6th of October,2.0,29.9723458,30.9409205,29.9723458,30.9409205,29.9723458,30.9409205
+Rami El-Mahdy,Gynecologist,4.758470894874023,El-Haram,Urinary and Reproductive,El-Haram,3.0,29.9942663,31.1604591,29.9942663,31.1604591,29.9942663,31.1604591
+Hassan Farouk,Dermatologist,5.0,Nasr City,Skin,Nasr City,4.0,30.0521177,31.3422045,30.0521177,31.3422045,30.0521177,31.3422045
+Nour Mahmoud,Dentist,4.5,"Heliopolis ,  Bridge",Others,"Heliopolis ,  Bridge",,,,,,,
+Reem Mansour,Vascular Surgeon,4.5,"Faisal ,  Faisal",Musculoskeletal,"Faisal ,  Faisal",,,,,,,
+Salim El-Din,Internist,4.5,"Nasr City ,  ahmed el zomor",Others,"Nasr City ,  ahmed el zomor",,,,,,,
+Khaled El-Shennawy,Gynecologist,4.5,"El-Agamy , Kilometer 21 square,",Urinary and Reproductive,"El-Agamy , Kilometer 21 square,",,,,,,,
+Salim El-Hadidy,ENT Doctor,4.0,"El-Mokattam , 9 S.t","Eye, Ear and Nose","El-Mokattam , 9 S.t",,,,,,,
+Amr Gaber,Cardiologist,5.0,"West El-Balad ,  Mohamed farid",Cardiovascular,"West El-Balad ,  Mohamed farid",,,,,,,
+Tamer Abdelrahman,Dermatologist,4.5,"El-Obour City , Alsadat St.",Skin,"El-Obour City , Alsadat St.",,,,,,,
+Dina Mahmoud,Psychiatrist,4.0,"El-Mansoura , Hussein bek street in front of family regulation office",Neurological and Psychiatric,"El-Mansoura , Hussein bek street in front of family regulation office",,,,,,,
+Mohamed Farouk,Pediatrician,4.5,Miamy,Others,Miamy,35.0,-23.4461564,-51.8861956,-23.4461564,-51.8861956,-23.4461564,-51.8861956
+Tamer Mostafa,Orthopedist,4.5,Faisal,Musculoskeletal,Faisal,75.0,30.0978834,32.4856496,30.0978834,32.4856496,30.0978834,32.4856496
+Sara El-Sayed,Gynecologist,4.5,"New Cairo , abdallah ibn salama",Urinary and Reproductive,"New Cairo , abdallah ibn salama",,,,,,,
+Dina Fahmy,Internist,4.0,"El-Rehab , el sadat axis-The corner mall",Others,"El-Rehab , el sadat axis-The corner mall",,,,,,,
+Sami El-Kholy,Pediatrician,4.5,"New Cairo , 3rd block",Others,"New Cairo , 3rd block",,,,,,,
+Jamal El-Sherbiny,Psychiatrist,4.0,trablous,Neurological and Psychiatric,trablous,,,,,,,
+Firas Abdelrahman,Andrologist,4.5,"6th of October , 4th District - 3rd Neighborhood",Urinary and Reproductive,"6th of October , 4th District - 3rd Neighborhood",,,,,,,
+Hassan Samir,Orthopedist,4.5,6th of October,Musculoskeletal,6th of October,2.0,29.9723458,30.9409205,29.9723458,30.9409205,29.9723458,30.9409205
+Aya El-Gohary,General Surgeon,4.5,"Shoubra El-Kheima , ElSharea ElGded",Musculoskeletal,"Shoubra El-Kheima , ElSharea ElGded",,,,,,,
+Mohamed El-Gendy,Ophthalmologist,4.5,New Cairo,"Eye, Ear and Nose",New Cairo,30.0,30.0277688,31.4756825,30.0277688,31.4756825,30.0277688,31.4756825
+Rania Fahmy,Neurologist,4.5,"Shoubra El-Kheima , 15 may street across the new street",Neurological and Psychiatric,"Shoubra El-Kheima , 15 may street across the new street",,,,,,,
+Ibrahim Zaki,Nutritionist,4.5,"El-Matareya , El horeya street",Others,"El-Matareya , El horeya street",,,,,,,
+Mahmoud Kamel,Rheumatologist,4.5,"Nasr City , Gafar Elsadek st branched from eltayaran",Musculoskeletal,"Nasr City , Gafar Elsadek st branched from eltayaran",,,,,,,
+Heba Fathy,Internist,4.5,"El-Maadi , 77 St.",Others,"El-Maadi , 77 St.",,,,,,,
+Sara El-Shennawy,Cardiologist,4.5,Heliopolis,Cardiovascular,Heliopolis,114.0,-10.6753416,-38.2815308,-10.6753416,-38.2815308,-10.6753416,-38.2815308
+Fady El-Din,Pediatrician,4.5,"Faisal , king  Faisal taawon",Others,"Faisal , king  Faisal taawon",,,,,,,
+Zein Kamel,Andrologist,4.5,Faisal,Urinary and Reproductive,Faisal,75.0,30.0978834,32.4856496,30.0978834,32.4856496,30.0978834,32.4856496
+Ibrahim Taha,Urologist,4.5,"Shoubra , 15 may street",Urinary and Reproductive,"Shoubra , 15 may street",,,,,,,
+Mohamed Kamel,Nutritionist,4.0,"El-Mansheyah , Hamam El Warsha",Others,"El-Mansheyah , Hamam El Warsha",,,,,,,
+Tamer El-Saied,Physiotherapist,5.0,El-Mansoura,Musculoskeletal,El-Mansoura,0.0,36.786091,9.9000163,36.786091,9.9000163,36.786091,9.9000163
+Laila Taha,Dermatologist,4.5,El-Ibrahimia,Skin,El-Ibrahimia,1.0,28.4243751,30.7932891,28.4243751,30.7932891,28.4243751,30.7932891
+Mona El-Sherbiny,Orthopedist,4.5,6th of October,Musculoskeletal,6th of October,2.0,29.9723458,30.9409205,29.9723458,30.9409205,29.9723458,30.9409205
+Salim El-Kassas,Gynecologist,4.758470894874023,El-Haram,Urinary and Reproductive,El-Haram,3.0,29.9942663,31.1604591,29.9942663,31.1604591,29.9942663,31.1604591
+Zein Youssef,Dermatologist,5.0,Nasr City,Skin,Nasr City,4.0,30.0521177,31.3422045,30.0521177,31.3422045,30.0521177,31.3422045
+Nader Youssef,Hepatologist,4.5,"Faisal , Faisal",Gastrointestinal and Liver,"Faisal , Faisal",,,,,,,
+Sara El-Gendy,Orthopedist,4.5,Ain Shams,Musculoskeletal,Ain Shams,244.0,30.1304761,31.3167491,30.1304761,31.3167491,30.1304761,31.3167491
+Rami Samir,Rheumatologist,4.0,"El-Haram ,  Abo emera street",Musculoskeletal,"El-Haram ,  Abo emera street",,,,,,,
+Laila El-Masry,Ophthalmologist,4.5,"El-Maadi , 153","Eye, Ear and Nose","El-Maadi , 153",,,,,,,
+Bassam Gaber,Physiotherapist,4.0,"El-Maadi , 9",Musculoskeletal,"El-Maadi , 9",,,,,,,
+Mona El-Kassas,Dermatologist,4.5,"El-Obour City , Alsadat St.",Skin,"El-Obour City , Alsadat St.",,,,,,,
+Mohamed Taha,Psychiatrist,4.0,"El-Mansoura , Hussein bek street in front of family regulation office",Neurological and Psychiatric,"El-Mansoura , Hussein bek street in front of family regulation office",,,,,,,
+Yasmin Zaki,Ophthalmologist,5.0,"Shoubra El-Kheima , 15 mayo"" ElshareEl gedidi ""","Eye, Ear and Nose","Shoubra El-Kheima , 15 mayo"" ElshareEl gedidi """,,,,,,,
+Nadia Gaber,Gynecologist,4.0,El-Ibrahimia,Urinary and Reproductive,El-Ibrahimia,1.0,28.4243751,30.7932891,28.4243751,30.7932891,28.4243751,30.7932891
+Hani Mansour,Pediatrician,4.5,Miamy,Others,Miamy,35.0,-23.4461564,-51.8861956,-23.4461564,-51.8861956,-23.4461564,-51.8861956
+Yasmin El-Khatib,Internist,4.0,"El-Rehab , el sadat axis-The corner mall",Others,"El-Rehab , el sadat axis-The corner mall",,,,,,,
+Mohamed El-Kassas,Pediatrician,4.5,"New Cairo , 3rd block",Others,"New Cairo , 3rd block",,,,,,,
+Hassan Fathy,Oncologist,4.5,El-Haram,Others,El-Haram,3.0,29.9942663,31.1604591,29.9942663,31.1604591,29.9942663,31.1604591
+Fatma Nasser,Orthopedist,4.5,"El-Maadi ,  ElNasr",Musculoskeletal,"El-Maadi ,  ElNasr",,,,,,,
+Sara El-Hadidy,Nephrologist,5.0,"Faisal , Faisal street",Urinary and Reproductive,"Faisal , Faisal street",,,,,,,
+Salim Hassan,ENT Doctor,4.5,"El-Rehab , Rehab , medical centre 2 , clinic 109","Eye, Ear and Nose","El-Rehab , Rehab , medical centre 2 , clinic 109",,,,,,,
+Fatma Saeed,Urologist,4.0,"Heliopolis , bagdad st.",Urinary and Reproductive,"Heliopolis , bagdad st.",,,,,,,
+Salma Mostafa,Plastic Surgeon,4.5,"Sporting , Port Saeid St.,",Musculoskeletal,"Sporting , Port Saeid St.,",,,,,,,
+Zein Abdallah,Vascular Surgeon,4.5,"6th of October , El Mehwar El Markazy",Musculoskeletal,"6th of October , El Mehwar El Markazy",,,,,,,
+Rami Nasser,Cardiologist,4.5,"El-Sheikh Zayed , Twin Towers",Cardiovascular,"El-Sheikh Zayed , Twin Towers",,,,,,,
+Bassam Mahmoud,ENT Doctor,4.5,El-Mohandessin,"Eye, Ear and Nose",El-Mohandessin,133.0,30.0583951,31.2020231,30.0583951,31.2020231,30.0583951,31.2020231
+Adel Hassan,Cardiologist,4.5,Heliopolis,Cardiovascular,Heliopolis,114.0,-10.6753416,-38.2815308,-10.6753416,-38.2815308,-10.6753416,-38.2815308
+Amira El-Kassas,Dentist,4.5,"Heliopolis ,  Bridge",Others,"Heliopolis ,  Bridge",,,,,,,
+Reem Hassan,Psychiatrist,4.5,"Hadayek El-Kobba , Masr El-Soadan",Neurological and Psychiatric,"Hadayek El-Kobba , Masr El-Soadan",,,,,,,
+Ahmed Fahmy,Internist,4.5,"El-Maadi , algazerr",Others,"El-Maadi , algazerr",,,,,,,
+Salma El-Baz,Ophthalmologist,4.5,New Cairo,"Eye, Ear and Nose",New Cairo,30.0,30.0277688,31.4756825,30.0277688,31.4756825,30.0277688,31.4756825
+Noha Fathy,Pediatrician,4.5,"Faisal , king  Faisal taawon",Others,"Faisal , king  Faisal taawon",,,,,,,
+Mahmoud Fahmy,Vascular Surgeon,4.5,"Faisal ,  Faisal",Musculoskeletal,"Faisal ,  Faisal",,,,,,,
+Nour El-Din,Ophthalmologist,4.5,"Nasr City , mostafa el nahhas street","Eye, Ear and Nose","Nasr City , mostafa el nahhas street",,,,,,,
+Fatma Fahmy,Internist,4.5,"Nasr City ,  ahmed el zomor",Others,"Nasr City ,  ahmed el zomor",,,,,,,
+Youssef El-Gohary,Physiotherapist,5.0,El-Mansoura,Musculoskeletal,El-Mansoura,0.0,36.786091,9.9000163,36.786091,9.9000163,36.786091,9.9000163
+Bassam El-Shennawy,Dermatologist,4.5,El-Ibrahimia,Skin,El-Ibrahimia,1.0,28.4243751,30.7932891,28.4243751,30.7932891,28.4243751,30.7932891
+Reem Abdelrahman,Orthopedist,4.5,6th of October,Musculoskeletal,6th of October,2.0,29.9723458,30.9409205,29.9723458,30.9409205,29.9723458,30.9409205
+Zein Fathy,Gynecologist,4.758470894874023,El-Haram,Urinary and Reproductive,El-Haram,3.0,29.9942663,31.1604591,29.9942663,31.1604591,29.9942663,31.1604591
+Fady Zaki,Dermatologist,5.0,Nasr City,Skin,Nasr City,4.0,30.0521177,31.3422045,30.0521177,31.3422045,30.0521177,31.3422045
+Mariam El-Kassas,ENT Doctor,4.0,Faisal,"Eye, Ear and Nose",Faisal,75.0,30.0978834,32.4856496,30.0978834,32.4856496,30.0978834,32.4856496
+Fady El-Khatib,Neurologist,4.5,"El-Abbasia , Abdou Pacha Sq.",Neurological and Psychiatric,"El-Abbasia , Abdou Pacha Sq.",,,,,,,
+Laila El-Shennawy,Gynecologist,4.5,"6th of October , the central axis",Urinary and Reproductive,"6th of October , the central axis",,,,,,,
+Mona El-Kholy,Ophthalmologist,4.5,"El-Maadi , 153","Eye, Ear and Nose","El-Maadi , 153",,,,,,,
+Bassam Nasser,Internist,4.5,"El-Mandara , Mohamed Hassanin Hiekel",Others,"El-Mandara , Mohamed Hassanin Hiekel",,,,,,,
+Fady Ibrahim,Hepatologist,4.5,"Faisal , Faisal",Gastrointestinal and Liver,"Faisal , Faisal",,,,,,,
+Mostafa Khalil,Orthopedist,5.0,"Sidy Gaber , Elhoreia",Musculoskeletal,"Sidy Gaber , Elhoreia",,,,,,,
+Bassam Ibrahim,Gynecologist,4.5,"El-Sheikh Zayed , Medical Hub Center-Khameal City-Gate 2-Infront of Hyperone",Urinary and Reproductive,"El-Sheikh Zayed , Medical Hub Center-Khameal City-Gate 2-Infront of Hyperone",,,,,,,
+Dina Samir,Gastroenterologist,5.0,Ain Shams,Gastrointestinal and Liver,Ain Shams,244.0,30.1304761,31.3167491,30.1304761,31.3167491,30.1304761,31.3167491
+Salim El-Masry,Urologist,4.5,"El-Marg , Ahmed sediq",Urinary and Reproductive,"El-Marg , Ahmed sediq",,,,,,,
+Amr El-Shennawy,Gastroenterologist,4.5,"Sidy Gaber , Portsaif",Gastrointestinal and Liver,"Sidy Gaber , Portsaif",,,,,,,
+Fady Taha,Neurologist,4.0,"El-Haram , Terat Al Zomir Street",Neurological and Psychiatric,"El-Haram , Terat Al Zomir Street",,,,,,,
+Laila El-Amin,ENT Doctor,4.5,El-Maadi,"Eye, Ear and Nose",El-Maadi,50.0,36.6117091,4.6680878,36.6117091,4.6680878,36.6117091,4.6680878
+Ahmed El-Sayed,Orthopedist,4.5,Ain Shams,Musculoskeletal,Ain Shams,244.0,30.1304761,31.3167491,30.1304761,31.3167491,30.1304761,31.3167491
+Fady Fathy,Dermatologist,4.5,"6th of October , elmahwar el markazi",Skin,"6th of October , elmahwar el markazi",,,,,,,
+Nader El-Hadidy,Rheumatologist,4.0,"El-Haram ,  Abo emera street",Musculoskeletal,"El-Haram ,  Abo emera street",,,,,,,
+Amira Gaber,Pulmonologist,4.5,"El-Haram , Al Haram street -",Respiratory,"El-Haram , Al Haram street -",,,,,,,
+Amira Abdallah,Gynecologist,4.5,"El-Rehab , Medical center 2 ,  El Rehab City",Urinary and Reproductive,"El-Rehab , Medical center 2 ,  El Rehab City",,,,,,,
+Mona Abdallah,Gastroenterologist,4.5,"El-Giza , el gamaa Street",Gastrointestinal and Liver,"El-Giza , el gamaa Street",,,,,,,
+Heba El-Sherbiny,Internist,4.5,"El-Haram , El haram St.",Others,"El-Haram , El haram St.",,,,,,,
+Amira El-Sherbiny,Psychiatrist,4.5,"El-Haram , Naser althora",Neurological and Psychiatric,"El-Haram , Naser althora",,,,,,,
+Fatma El-Din,Gynecologist,4.5,"El-Rehab , medical park elite next to city square",Urinary and Reproductive,"El-Rehab , medical park elite next to city square",,,,,,,
+Salim Fathy,Pulmonologist,4.0,El-Maadi,Respiratory,El-Maadi,50.0,36.6117091,4.6680878,36.6117091,4.6680878,36.6117091,4.6680878
+Salma Salah,Orthopedist,4.5,"6th of October , 71 fadan",Musculoskeletal,"6th of October , 71 fadan",,,,,,,
+Rania Nasser,ENT Doctor,4.5,"El-Rehab , Rehab , medical centre 2 , clinic 109","Eye, Ear and Nose","El-Rehab , Rehab , medical centre 2 , clinic 109",,,,,,,
+Amr El-Hadidy,Urologist,4.0,"Heliopolis , bagdad st.",Urinary and Reproductive,"Heliopolis , bagdad st.",,,,,,,
+Ali Saeed,Dermatologist,4.5,"Heliopolis , El Merghany",Skin,"Heliopolis , El Merghany",,,,,,,
+Nader Samir,Cardiologist,4.5,"El-Sheikh Zayed , Twin Towers",Cardiovascular,"El-Sheikh Zayed , Twin Towers",,,,,,,
+Salma Zaki,Physiotherapist,5.0,El-Mansoura,Musculoskeletal,El-Mansoura,0.0,36.786091,9.9000163,36.786091,9.9000163,36.786091,9.9000163
+Sara Salah,Dermatologist,4.5,El-Ibrahimia,Skin,El-Ibrahimia,1.0,28.4243751,30.7932891,28.4243751,30.7932891,28.4243751,30.7932891
+Hani Samir,Orthopedist,4.5,6th of October,Musculoskeletal,6th of October,2.0,29.9723458,30.9409205,29.9723458,30.9409205,29.9723458,30.9409205
+Zein Taha,Gynecologist,4.758470894874023,El-Haram,Urinary and Reproductive,El-Haram,3.0,29.9942663,31.1604591,29.9942663,31.1604591,29.9942663,31.1604591
+Fady El-Saied,Dermatologist,5.0,Nasr City,Skin,Nasr City,4.0,30.0521177,31.3422045,30.0521177,31.3422045,30.0521177,31.3422045
+Jamal El-Naggar,Physiotherapist,5.0,"Heliopolis , abu bakr el sedeek saffir sqaure",Musculoskeletal,"Heliopolis , abu bakr el sedeek saffir sqaure",,,,,,,
+Hani El-Masry,Plastic Surgeon,4.0,"El-Ibrahimia , abokeir road",Musculoskeletal,"El-Ibrahimia , abokeir road",,,,,,,
+Khaled Samir,General Surgeon,4.5,Faisal,Musculoskeletal,Faisal,75.0,30.0978834,32.4856496,30.0978834,32.4856496,30.0978834,32.4856496
+Hani Hassan,Internist,4.0,Heliopolis,Others,Heliopolis,114.0,-10.6753416,-38.2815308,-10.6753416,-38.2815308,-10.6753416,-38.2815308
+Omar Hussein,Dentist,4.5,"8th district, Above Ragab's Sons s market - mall five stars 2 new floor",Others,"8th district, Above Ragab's Sons s market - mall five stars 2 new floor",,,,,,,
+Jamal El-Gohary,Gynecologist,4.5,"Nasr City , ahmed elzomr",Urinary and Reproductive,"Nasr City , ahmed elzomr",,,,,,,
+Walid El-Sherbiny,Dentist,4.5,"Nasr City , Abu Dawood Al-Zahery",Others,"Nasr City , Abu Dawood Al-Zahery",,,,,,,
+Youssef El-Shazly,Cardiologist,4.5,"Ain Shams , Seha street",Cardiovascular,"Ain Shams , Seha street",,,,,,,
+Heba Gaber,Internist,4.758470894874023,Beverly Hills,Others,Beverly Hills,275.0,34.0696501,-118.3963062,,,34.0696501,-118.3963062
+Dina Kamel,General Surgeon,4.5,El-Mansoura,Musculoskeletal,El-Mansoura,0.0,36.786091,9.9000163,36.786091,9.9000163,36.786091,9.9000163
+Tamer El-Kassas,Gynecologist,4.0,"Hadayek El-Ahram , zen",Urinary and Reproductive,"Hadayek El-Ahram , zen",,,,,,,
+Aya Mansour,Dentist,5.0,"New Cairo , North",Others,"New Cairo , North",,,,,,,
+Mariam Gaber,Cardiologist,4.5,"El-Haram , Al Haram street",Cardiovascular,"El-Haram , Al Haram street",,,,,,,
+Walid Mostafa,Cardiologist,4.5,"El-Agamy , -salah el awdy st.",Cardiovascular,"El-Agamy , -salah el awdy st.",,,,,,,
+Sami Abdallah,Internist,4.5,"6th of October , nagda square",Others,"6th of October , nagda square",,,,,,,
+Khaled Fathy,Urologist,4.5,"El-Marg , Ahmed sediq",Urinary and Reproductive,"El-Marg , Ahmed sediq",,,,,,,
+Ahmed Youssef,Gastroenterologist,5.0,Ain Shams,Gastrointestinal and Liver,Ain Shams,244.0,30.1304761,31.3167491,30.1304761,31.3167491,30.1304761,31.3167491
+Hassan El-Masry,Internist,4.5,El-Zagazig,Others,El-Zagazig,51.0,30.5950402,31.5125611,30.5886074,31.4819297,30.5950402,31.5125611
+Dina El-Sherif,Ophthalmologist,4.5,"El-Maadi , 153","Eye, Ear and Nose","El-Maadi , 153",,,,,,,
+Ibrahim Kamel,Gynecologist,4.5,"6th of October , the central axis",Urinary and Reproductive,"6th of October , the central axis",,,,,,,
+Tamer El-Sayed,Internist,4.5,"El-Mandara , Mohamed Hassanin Hiekel",Others,"El-Mandara , Mohamed Hassanin Hiekel",,,,,,,
+Heba El-Amin,Internist,5.0,"Smouha , Victor Ammanuel St.",Others,"Smouha , Victor Ammanuel St.",,,,,,,
+Nadia El-Gendy,Physiotherapist,4.0,"El-Maadi , 9",Musculoskeletal,"El-Maadi , 9",,,,,,,
+Sami El-Sherif,Cardiologist,4.5,"El-Maadi , Horreya Square",Cardiovascular,"El-Maadi , Horreya Square",,,,,,,
+Mostafa Kamel,Gastroenterologist,4.5,"Sidy Gaber , Portsaif",Gastrointestinal and Liver,"Sidy Gaber , Portsaif",,,,,,,
+Heba Hussein,Neurologist,4.0,"El-Haram , Terat Al Zomir Street",Neurological and Psychiatric,"El-Haram , Terat Al Zomir Street",,,,,,,
+Mostafa El-Khatib,ENT Doctor,4.5,El-Maadi,"Eye, Ear and Nose",El-Maadi,50.0,36.6117091,4.6680878,36.6117091,4.6680878,36.6117091,4.6680878
+Salma Kamel,Orthopedist,4.5,Ain Shams,Musculoskeletal,Ain Shams,244.0,30.1304761,31.3167491,30.1304761,31.3167491,30.1304761,31.3167491
+Mona Nasser,Dermatologist,4.5,"6th of October , elmahwar el markazi",Skin,"6th of October , elmahwar el markazi",,,,,,,
+Fatma Mansour,Orthopedist,5.0,"Sidy Gaber , Elhoreia",Musculoskeletal,"Sidy Gaber , Elhoreia",,,,,,,
+Mariam El-Khatib,Gynecologist,4.5,"El-Sheikh Zayed , Medical Hub Center-Khameal City-Gate 2-Infront of Hyperone",Urinary and Reproductive,"El-Sheikh Zayed , Medical Hub Center-Khameal City-Gate 2-Infront of Hyperone",,,,,,,
+Dina El-Khatib,Rheumatologist,4.0,"El-Haram ,  Abo emera street",Musculoskeletal,"El-Haram ,  Abo emera street",,,,,,,
+Fatma El-Khatib,Pulmonologist,4.5,"El-Haram , Al Haram street -",Respiratory,"El-Haram , Al Haram street -",,,,,,,
+Amr Ibrahim,Physiotherapist,5.0,El-Mansoura,Musculoskeletal,El-Mansoura,0.0,36.786091,9.9000163,36.786091,9.9000163,36.786091,9.9000163
+Rania Gaber,Dermatologist,4.5,El-Ibrahimia,Skin,El-Ibrahimia,1.0,28.4243751,30.7932891,28.4243751,30.7932891,28.4243751,30.7932891
+Heba Hassan,Orthopedist,4.5,6th of October,Musculoskeletal,6th of October,2.0,29.9723458,30.9409205,29.9723458,30.9409205,29.9723458,30.9409205
+Adel Farouk,Gynecologist,4.758470894874023,El-Haram,Urinary and Reproductive,El-Haram,3.0,29.9942663,31.1604591,29.9942663,31.1604591,29.9942663,31.1604591
+Sami Mansour,Dermatologist,5.0,Nasr City,Skin,Nasr City,4.0,30.0521177,31.3422045,30.0521177,31.3422045,30.0521177,31.3422045
+Nader Mostafa,Dentist,5.0,"Nasr City , Afracia street-extention of mostafa elnahas street-9 th zone-after PIZZA HUT restaurant",Others,"Nasr City , Afracia street-extention of mostafa elnahas street-9 th zone-after PIZZA HUT restaurant",,,,,,,
+Rania El-Sherbiny,Dentist,4.5,"8th district, Above Ragab's Sons s market - mall five stars 2 new floor",Others,"8th district, Above Ragab's Sons s market - mall five stars 2 new floor",,,,,,,
+Sami Nasser,Dentist,4.5,"Nasr City , Abu Dawood Al-Zahery",Others,"Nasr City , Abu Dawood Al-Zahery",,,,,,,
+Nader Abdelrahman,Dentist,5.0,"New Cairo , North",Others,"New Cairo , North",,,,,,,
+Fatma Khalil,Psychiatrist,4.0,"El-Mansoura , Hussein bek street in front of family regulation office",Neurological and Psychiatric,"El-Mansoura , Hussein bek street in front of family regulation office",,,,,,,
+Youssef El-Kassas,Internist,4.5,"6th of October , nagda square",Others,"6th of October , nagda square",,,,,,,
+Nader El-Din,Urologist,4.5,"El Minya City , Elgomhorya street",Urinary and Reproductive,"El Minya City , Elgomhorya street",,,,,,,
+Sami El-Sayed,Gynecologist,5.0,"El-Sheikh Zayed , Twin Towers, 26 July Corridor",Urinary and Reproductive,"El-Sheikh Zayed , Twin Towers, 26 July Corridor",,,,,,,
+Adel El-Shennawy,Andrologist,4.5,"Assiut city , Al Helaly",Urinary and Reproductive,"Assiut city , Al Helaly",,,,,,,
+Amr El-Gohary,Cardiologist,4.5,"El-Haram , Al Haram street",Cardiovascular,"El-Haram , Al Haram street",,,,,,,
+Rami Hussein,Nutritionist,4.5,"10 Mohamed Awad st, branched from Makram Ebeid",Others,"10 Mohamed Awad st, branched from Makram Ebeid",,,,,,,
+Fatma El-Naggar,Cardiothoracic Surgeon,4.5,"El-Mansoura , gehan st",Cardiovascular,"El-Mansoura , gehan st",,,,,,,
+Adel El-Khatib,Dentist,4.5,"El-Mokattam , central Street, from 9 street",Others,"El-Mokattam , central Street, from 9 street",,,,,,,
+Omar Abdelrahman,Cardiologist,4.5,"New Cairo , Next to Al baraka Mall",Cardiovascular,"New Cairo , Next to Al baraka Mall",,,,,,,
+Walid El-Mahdy,Vascular Surgeon,4.5,"El-Ibrahimia , portsaid",Musculoskeletal,"El-Ibrahimia , portsaid",,,,,,,
+Salim Mahmoud,Physiotherapist,4.0,"Helwan , mohamed sayed ahmed street with rayel street",Musculoskeletal,"Helwan , mohamed sayed ahmed street with rayel street",,,,,,,
+Noha El-Gendy,Pediatrician,4.5,Ain Shams,Others,Ain Shams,244.0,30.1304761,31.3167491,30.1304761,31.3167491,30.1304761,31.3167491
+Noha Zaki,Pediatric Surgeon,4.5,"El-Ibrahimia , port Said",Urinary and Reproductive,"El-Ibrahimia , port Said",,,,,,,
+Sara El-Sherif,Internist,4.0,"El-Abbasia , sergany st-abdo basha",Others,"El-Abbasia , sergany st-abdo basha",,,,,,,
+Youssef El-Shennawy,Internist,4.5,"El-Mohandessin , El Kawser street",Others,"El-Mohandessin , El Kawser street",,,,,,,
+Nour Fahmy,Physiotherapist,5.0,El-Mansoura,Musculoskeletal,El-Mansoura,0.0,36.786091,9.9000163,36.786091,9.9000163,36.786091,9.9000163
+Yasmin Hussein,Dermatologist,4.5,El-Ibrahimia,Skin,El-Ibrahimia,1.0,28.4243751,30.7932891,28.4243751,30.7932891,28.4243751,30.7932891
+Jamal Farouk,Orthopedist,4.5,6th of October,Musculoskeletal,6th of October,2.0,29.9723458,30.9409205,29.9723458,30.9409205,29.9723458,30.9409205
+Mahmoud El-Baz,Gynecologist,4.758470894874023,El-Haram,Urinary and Reproductive,El-Haram,3.0,29.9942663,31.1604591,29.9942663,31.1604591,29.9942663,31.1604591
+Mahmoud Shalaby,Dermatologist,5.0,Nasr City,Skin,Nasr City,4.0,30.0521177,31.3422045,30.0521177,31.3422045,30.0521177,31.3422045
+Walid El-Sherif,Internist,4.0,"El-Sheikh Zayed , -Badr Eldeen Mall",Others,"El-Sheikh Zayed , -Badr Eldeen Mall",,,,,,,
+Adel El-Saied,Dentist,4.5,"El-Zaitoun , selem el awl",Others,"El-Zaitoun , selem el awl",,,,,,,
+Ibrahim El-Mahdy,Gynecologist,4.0,"Shoubra ,  Al Taraa Al Bolaqiea",Urinary and Reproductive,"Shoubra ,  Al Taraa Al Bolaqiea",,,,,,,
+Mahmoud El-Din,ENT Doctor,4.0,"Heliopolis , gesr suez","Eye, Ear and Nose","Heliopolis , gesr suez",,,,,,,
+Mohamed El-Gohary,Dentist,4.5,"Tanta , Saad Zaghlool square-loaloa Tanta Tower-Above eltwheed w elnoor",Others,"Tanta , Saad Zaghlool square-loaloa Tanta Tower-Above eltwheed w elnoor",,,,,,,
+Hassan Youssef,ENT Doctor,4.5,"6th of October , Prima-vista medical center","Eye, Ear and Nose","6th of October , Prima-vista medical center",,,,,,,
+Dina Gaber,Neurologist,4.5,"El-Dokki , El Tahrir St.",Neurological and Psychiatric,"El-Dokki , El Tahrir St.",,,,,,,
+Hani Saeed,Ophthalmologist,4.5,"Heliopolis , Aboubakr Elsedik street-Safeer Square-Above ezz Eldeen pharmacy","Eye, Ear and Nose","Heliopolis , Aboubakr Elsedik street-Safeer Square-Above ezz Eldeen pharmacy",,,,,,,
+Walid Taha,Gynecologist,4.0,"El-Haram , El talateny elgded of ezz el din omar",Urinary and Reproductive,"El-Haram , El talateny elgded of ezz el din omar",,,,,,,
+Heba Salah,Dentist,4.5,"El-Mokattam ,  Al Eman Mosque",Others,"El-Mokattam ,  Al Eman Mosque",,,,,,,
+Noha El-Kassas,Gynecologist,4.5,"Sidy Bishr , Gamal abelnasser st.",Urinary and Reproductive,"Sidy Bishr , Gamal abelnasser st.",,,,,,,
+Nader El-Kassas,Dentist,4.0,"El-Sheikh Zayed , Twin Towers-Damas Dental Center",Others,"El-Sheikh Zayed , Twin Towers-Damas Dental Center",,,,,,,
+Bassam El-Gohary,Cardiologist,4.5,"Assiut city , Youssry Ragheb St.",Cardiovascular,"Assiut city , Youssry Ragheb St.",,,,,,,
+Sara El-Sherbiny,Internist,4.5,El Minya City,Others,El Minya City,309.0,28.0893325,30.7570623,28.0893325,30.7570623,28.0893325,30.7570623
+Ahmed Khalil,Dentist,4.5,"Hadayek El-Ahram , Ahmed Bedeer",Others,"Hadayek El-Ahram , Ahmed Bedeer",,,,,,,
+Rami El-Hadidy,Nutritionist,4.5,"Helwan , riad",Others,"Helwan , riad",,,,,,,
+Fatma Samir,Nutritionist,4.0,"Helwan , mouhamed sayed ahmed street/rayel stret",Others,"Helwan , mouhamed sayed ahmed street/rayel stret",,,,,,,
+Yasmin El-Gendy,Physiotherapist,4.5,"Faisal , el arabeen elmaskeen",Musculoskeletal,"Faisal , el arabeen elmaskeen",,,,,,,
+Nader El-Shazly,Dentist,4.5,"El-Maadi , street 108",Others,"El-Maadi , street 108",,,,,,,
+Amira El-Baz,Physiotherapist,4.0,"West El-Balad , Adly",Musculoskeletal,"West El-Balad , Adly",,,,,,,
+Nadia Nasser,Physiotherapist,5.0,"Heliopolis , abu bakr el sedeek saffir sqaure",Musculoskeletal,"Heliopolis , abu bakr el sedeek saffir sqaure",,,,,,,
+Firas Hassan,Gynecologist,4.0,"Hadayek El-Ahram , zen",Urinary and Reproductive,"Hadayek El-Ahram , zen",,,,,,,
+Rania Ibrahim,Plastic Surgeon,4.0,"El-Ibrahimia , abokeir road",Musculoskeletal,"El-Ibrahimia , abokeir road",,,,,,,
+Salma Nasser,Dermatologist,4.0,"Heliopolis , El Khalifa El Mamoun street",Skin,"Heliopolis , El Khalifa El Mamoun street",,,,,,,
+Nadia Samir,General Surgeon,4.5,Faisal,Musculoskeletal,Faisal,75.0,30.0978834,32.4856496,30.0978834,32.4856496,30.0978834,32.4856496
+Aya Youssef,Internist,4.0,Heliopolis,Others,Heliopolis,114.0,-10.6753416,-38.2815308,-10.6753416,-38.2815308,-10.6753416,-38.2815308
+Tamer El-Gendy,Pediatrician,4.5,Ain Shams,Others,Ain Shams,244.0,30.1304761,31.3167491,30.1304761,31.3167491,30.1304761,31.3167491
+Noha El-Amin,Internist,4.758470894874023,Beverly Hills,Others,Beverly Hills,275.0,34.0696501,-118.3963062,,,34.0696501,-118.3963062
+Mariam El-Mahdy,Physiotherapist,4.0,"Helwan , mohamed sayed ahmed street with rayel street",Musculoskeletal,"Helwan , mohamed sayed ahmed street with rayel street",,,,,,,
+Nadia El-Mahdy,Internist,4.0,"El-Abbasia , sergany st-abdo basha",Others,"El-Abbasia , sergany st-abdo basha",,,,,,,
+Dina Zaki,Physiotherapist,5.0,El-Mansoura,Musculoskeletal,El-Mansoura,0.0,36.786091,9.9000163,36.786091,9.9000163,36.786091,9.9000163
+Jamal El-Saied,Dermatologist,4.5,El-Ibrahimia,Skin,El-Ibrahimia,1.0,28.4243751,30.7932891,28.4243751,30.7932891,28.4243751,30.7932891
+Adel El-Amin,Orthopedist,4.5,6th of October,Musculoskeletal,6th of October,2.0,29.9723458,30.9409205,29.9723458,30.9409205,29.9723458,30.9409205
+Hani Taha,Gynecologist,4.758470894874023,El-Haram,Urinary and Reproductive,El-Haram,3.0,29.9942663,31.1604591,29.9942663,31.1604591,29.9942663,31.1604591
+Nour El-Sherbiny,Dermatologist,5.0,Nasr City,Skin,Nasr City,4.0,30.0521177,31.3422045,30.0521177,31.3422045,30.0521177,31.3422045
+Adel El-Gendy,Dentist,4.5,"El-Manyal , Manial Museum Street",Others,"El-Manyal , Manial Museum Street",,,,,,,
+Laila Abdallah,Dentist,4.5,"El-Haram , Ezz El-Deen Omar Arish station Behind misr Bank",Others,"El-Haram , Ezz El-Deen Omar Arish station Behind misr Bank",,,,,,,
+Fady Shalaby,Dentist,4.5,"El-Sheikh Zayed , Beverly Hills-gate 9",Others,"El-Sheikh Zayed , Beverly Hills-gate 9",,,,,,,
+Firas Mostafa,Dentist,4.5,"Nasr City , Makram Abeid",Others,"Nasr City , Makram Abeid",,,,,,,
+Hassan El-Din,Dentist,4.5,"El-Shorouk , grand mall third east expansions",Others,"El-Shorouk , grand mall third east expansions",,,,,,,
+Salma El-Naggar,General Surgeon,4.5,El-Mansoura,Musculoskeletal,El-Mansoura,0.0,36.786091,9.9000163,36.786091,9.9000163,36.786091,9.9000163
+Rami Shalaby,Dentist,4.5,"El-Shorouk , main road (Gate 1 ismallia road)",Others,"El-Shorouk , main road (Gate 1 ismallia road)",,,,,,,
+Mostafa El-Gendy,Surgical Oncologist,5.0,"El-Maadi , EL Laselky street-beside Moamen square",Gastrointestinal and Liver,"El-Maadi , EL Laselky street-beside Moamen square",,,,,,,
+Ibrahim Salah,Dentist,4.5,"Nasr City , abo dawood zahry",Others,"Nasr City , abo dawood zahry",,,,,,,
+Bassam El-Baz,Gynecologist,5.0,"El-Dokki , El Tahrir st.",Urinary and Reproductive,"El-Dokki , El Tahrir st.",,,,,,,
+Ahmed El-Shazly,Dentist,5.0,"Heliopolis , othman ibn affan- Ismailia square",Others,"Heliopolis , othman ibn affan- Ismailia square",,,,,,,
+Rania El-Kassas,Dentist,5.0,"El-Sheikh Zayed , elshabab",Others,"El-Sheikh Zayed , elshabab",,,,,,,
+Amr El-Baz,Gynecologist,4.0,"Hadayek El-Kobba , Elgrash",Urinary and Reproductive,"Hadayek El-Kobba , Elgrash",,,,,,,
+Sara Mahmoud,Internist,4.5,"El-Mansoura , Al seka algdeda",Others,"El-Mansoura , Al seka algdeda",,,,,,,
+Sara Zaki,Orthopedist,4.5,"Imbaba , Main wehda street",Musculoskeletal,"Imbaba , Main wehda street",,,,,,,
+Walid Samir,Nutritionist,5.0,El-Sheikh Zayed,Others,El-Sheikh Zayed,204.0,30.048347,30.9832235,30.048347,30.9832235,30.048347,30.9832235
+Mahmoud Hussein,ENT Doctor,4.0,"Ain Shams , 70 Khaled Ebn El Waleed st., From Mostafa Hafez st., Beside Zaher, Guesr El Suez st., In front of El Shams club","Eye, Ear and Nose","Ain Shams , 70 Khaled Ebn El Waleed st., From Mostafa Hafez st., Beside Zaher, Guesr El Suez st., In front of El Shams club",,,,,,,
+Rami El-Baz,Pulmonologist,4.0,"6th of October , 7th distric, 1st neigborhood",Respiratory,"6th of October , 7th distric, 1st neigborhood",,,,,,,
+Ali Nasser,Dentist,4.5,"Faisal , hassan mohamed station-Feisal",Others,"Faisal , hassan mohamed station-Feisal",,,,,,,
+Dina Khalil,Internist,5.0,"Faisal , King Faisal street",Others,"Faisal , King Faisal street",,,,,,,
+Ibrahim El-Kassas,Physiotherapist,4.5,"Hadayek El-Ahram , District G First Gate",Musculoskeletal,"Hadayek El-Ahram , District G First Gate",,,,,,,
+Heba Samir,Dentist,4.5,"El-Rehab , Medical Center 3 clinic 209",Others,"El-Rehab , Medical Center 3 clinic 209",,,,,,,
+Rami Farouk,Dentist,4.5,"El-Maadi , 233",Others,"El-Maadi , 233",,,,,,,
+Fady El-Mahdy,Ophthalmologist,5.0,"New Cairo , Mostafa kamel","Eye, Ear and Nose","New Cairo , Mostafa kamel",,,,,,,
+Reem El-Shennawy,Dentist,4.5,"Mahalla , Al Fareek Reda Hafez st.",Others,"Mahalla , Al Fareek Reda Hafez st.",,,,,,,
+Ahmed El-Hadidy,Orthopedist,4.5,"El-Haram , khatam Al Morsalen Street",Musculoskeletal,"El-Haram , khatam Al Morsalen Street",,,,,,,
+Zein Hassan,Vascular Surgeon,4.0,"Bakos , elhelal nady str",Musculoskeletal,"Bakos , elhelal nady str",,,,,,,
+Salim Fahmy,Gynecologist,4.0,"El-Dokki , El Tahrir street",Urinary and Reproductive,"El-Dokki , El Tahrir street",,,,,,,
+Fady Salah,Dentist,4.5,"New Cairo , medical park 1",Others,"New Cairo , medical park 1",,,,,,,
+Yasmin Farouk,Dentist,4.5,"El-Sheikh Zayed , Downtown mall",Others,"El-Sheikh Zayed , Downtown mall",,,,,,,
+Reem Gaber,ENT Doctor,4.5,"6th of October , Prima-vista medical center","Eye, Ear and Nose","6th of October , Prima-vista medical center",,,,,,,
+Jamal Samir,Dentist,5.0,"Nasr City , Afracia street-extention of mostafa elnahas street-9 th zone-after PIZZA HUT restaurant",Others,"Nasr City , Afracia street-extention of mostafa elnahas street-9 th zone-after PIZZA HUT restaurant",,,,,,,
+Amira Shalaby,Internist,4.0,"El-Sheikh Zayed , -Badr Eldeen Mall",Others,"El-Sheikh Zayed , -Badr Eldeen Mall",,,,,,,
+Mona El-Masry,Physiotherapist,4.5,Helwan,Musculoskeletal,Helwan,77.0,29.8500001,31.333333,29.8500001,31.333333,29.8500001,31.333333
+Bassam El-Sherif,Neurologist,4.5,"El-Dokki , El Tahrir St.",Neurological and Psychiatric,"El-Dokki , El Tahrir St.",,,,,,,
+Bassam El-Kassas,Pediatrician,5.0,"El-Badrashin , Athar Saqara",Others,"El-Badrashin , Athar Saqara",,,,,,,
+Rami Abdallah,General Surgeon,5.0,"El-Agamy , Alex Matrouh Road-Abo Youssef-Besides Elsaberen Mosque",Musculoskeletal,"El-Agamy , Alex Matrouh Road-Abo Youssef-Besides Elsaberen Mosque",,,,,,,
+Mostafa Mansour,Ophthalmologist,5.0,"Banha , Saad Zaghloul Street - Anani Tower","Eye, Ear and Nose","Banha , Saad Zaghloul Street - Anani Tower",,,,,,,
+Amr Zaki,Phoniatrician,5.0,"El-Shorouk , Al shorouk","Eye, Ear and Nose","El-Shorouk , Al shorouk",,,,,,,
+Ibrahim El-Din,Gynecologist,5.0,"Assiut city , thabet Street",Urinary and Reproductive,"Assiut city , thabet Street",,,,,,,
+Jamal Fathy,Pulmonologist,5.0,"El-Mansoura , Gehan",Respiratory,"El-Mansoura , Gehan",,,,,,,
+Amr El-Din,Ophthalmologist,5.0,"El-Amreya , Elamreya","Eye, Ear and Nose","El-Amreya , Elamreya",,,,,,,
+Aya Abdallah,Pulmonologist,5.0,"El-Zagazig , Salah salem Clinics,,Salah Salem St",Respiratory,"El-Zagazig , Salah salem Clinics,,Salah Salem St",,,,,,,
+Mariam El-Hadidy,Nutritionist,5.0,"Nasr City , nasr st",Others,"Nasr City , nasr st",,,,,,,
+Heba Farouk,Vascular Surgeon,5.0,"Hadayek El-Kobba , misr wa alsudan",Musculoskeletal,"Hadayek El-Kobba , misr wa alsudan",,,,,,,
+Khaled Mahmoud,Nutritionist,5.0,"Shibin El-Kom , Abdelkhalek Street from Assem Hama Street",Others,"Shibin El-Kom , Abdelkhalek Street from Assem Hama Street",,,,,,,
+Aya Farouk,Pediatrician,5.0,"El-Mansoura , Elgendy Tower fromGehan El Sadat Street",Others,"El-Mansoura , Elgendy Tower fromGehan El Sadat Street",,,,,,,
+Dina Youssef,Pediatrician,5.0,"Damanhur , abd elsalam el shazly",Others,"Damanhur , abd elsalam el shazly",,,,,,,
+Mostafa El-Masry,Rheumatologist,5.0,"Nasr City ,  Elnozha st.",Musculoskeletal,"Nasr City ,  Elnozha st.",,,,,,,
+Omar Fahmy,Gynecologist,5.0,"El-Maadi , Kornish Maadi street",Urinary and Reproductive,"El-Maadi , Kornish Maadi street",,,,,,,
+Aya Mostafa,Obesity Surgeon,5.0,"Heliopolis , Hassan Sadek from elmarghany street",Urinary and Reproductive,"Heliopolis , Hassan Sadek from elmarghany street",,,,,,,
+Jamal Abdallah,Oncologist,5.0,"Tanta , The intersection of Al Bahr Street with Al Khan",Others,"Tanta , The intersection of Al Bahr Street with Al Khan",,,,,,,
+Mohamed Saeed,Dentist,5.0,"Shoubra , Solwans St from Shoubra st - menyt elserg",Others,"Shoubra , Solwans St from Shoubra st - menyt elserg",,,,,,,
+Amira El-Hadidy,Gynecologist,5.0,"El-Rehab , The Fount Mall North investors",Urinary and Reproductive,"El-Rehab , The Fount Mall North investors",,,,,,,
+Mohamed El-Sherif,Plastic Surgeon,5.0,"Stanley , El- Gaish Roaf",Musculoskeletal,"Stanley , El- Gaish Roaf",,,,,,,
+Salim Taha,Gynecologist,5.0,"Smouha ,  Fawzy Moaz",Urinary and Reproductive,"Smouha ,  Fawzy Moaz",,,,,,,
+Mona El-Hadidy,Plastic Surgeon,5.0,"Hadayek El-Kobba , lotfy el sayed",Musculoskeletal,"Hadayek El-Kobba , lotfy el sayed",,,,,,,
+Mohamed Hassan,Dentist,5.0,"Bahary , safr basha",Others,"Bahary , safr basha",,,,,,,
+Ahmed El-Amin,General Surgeon,5.0,"El-Zagazig , Elmahad Eldeny street",Musculoskeletal,"El-Zagazig , Elmahad Eldeny street",,,,,,,
+Mostafa Saeed,Cardiologist,5.0,"Tanta , Segar St",Cardiovascular,"Tanta , Segar St",,,,,,,
+Yasmin El-Kassas,Pediatrician,5.0,"Nasr City , anwar elmofty",Others,"Nasr City , anwar elmofty",,,,,,,
+Mariam El-Sherif,Gynecologist,5.0,"El-Sheikh Zayed , Khamael City-gate 4-administration gates-infront of GLOURS School",Urinary and Reproductive,"El-Sheikh Zayed , Khamael City-gate 4-administration gates-infront of GLOURS School",,,,,,,
+Sara Ibrahim,Endocrinologist,5.0,"Heliopolis , Cleopatra St",Others,"Heliopolis , Cleopatra St",,,,,,,
+Amira El-Shazly,Nutritionist,5.0,"Sidy Gaber , Super Jet Square Street",Others,"Sidy Gaber , Super Jet Square Street",,,,,,,
+Zein Ibrahim,Orthopedist,5.0,"Roshdy , Elhoreya street-Roshdy",Musculoskeletal,"Roshdy , Elhoreya street-Roshdy",,,,,,,
+Aya El-Din,Gynecologist,5.0,"Mahalla , shon",Urinary and Reproductive,"Mahalla , shon",,,,,,,
+Tamer Shalaby,Gynecologist,5.0,"Mahalla , shon",Urinary and Reproductive,"Mahalla , shon",,,,,,,
+Fady Samir,Nutritionist,5.0,"El-Sheikh Zayed , Elmehwar Elmarkazi",Others,"El-Sheikh Zayed , Elmehwar Elmarkazi",,,,,,,
+Salma El-Gohary,Nutritionist,5.0,"El-Sheikh Zayed , Elmehwar Elmarkazi",Others,"El-Sheikh Zayed , Elmehwar Elmarkazi",,,,,,,
+Aya El-Shennawy,Dentist,5.0,"Nasr City , EL Nasr ST",Others,"Nasr City , EL Nasr ST",,,,,,,
+Laila El-Kassas,Dentist,5.0,"Nasr City , EL Nasr ST",Others,"Nasr City , EL Nasr ST",,,,,,,
+Nadia El-Masry,Internist,5.0,"New Cairo , S. Teseen",Others,"New Cairo , S. Teseen",,,,,,,
+Yasmin Gaber,Internist,5.0,"New Cairo , S. Teseen",Others,"New Cairo , S. Teseen",,,,,,,
+Bassam Saeed,Cardiologist,5.0,"El-Sheikh Zayed , District 12 Courtyard zayed",Cardiovascular,"El-Sheikh Zayed , District 12 Courtyard zayed",,,,,,,
+Khaled El-Gendy,Gynecologist,5.0,"El-Mansoura , Elnour Tower-Salah Salem Street-Talkha",Urinary and Reproductive,"El-Mansoura , Elnour Tower-Salah Salem Street-Talkha",,,,,,,
+Rania El-Kholy,Ophthalmologist,5.0,"El-Shorouk , Panorama Mall Street","Eye, Ear and Nose","El-Shorouk , Panorama Mall Street",,,,,,,
+Sara Saeed,Ophthalmologist,5.0,"El-Shorouk , Panorama Mall Street","Eye, Ear and Nose","El-Shorouk , Panorama Mall Street",,,,,,,
+Amira Saeed,General Surgeon,5.0,"Shibin El-Kom , gamal abdelnaser bahary street",Musculoskeletal,"Shibin El-Kom , gamal abdelnaser bahary street",,,,,,,
+Hassan Fahmy,General Surgeon,5.0,"Shibin El-Kom , gamal abdelnaser bahary street",Musculoskeletal,"Shibin El-Kom , gamal abdelnaser bahary street",,,,,,,
+Noha El-Din,Orthopedist,5.0,"Nasr City , Osman Buildings-Ali Amin Street Extension Of Mostafa Elnahas Street-Above Seventh District Post Office",Musculoskeletal,"Nasr City , Osman Buildings-Ali Amin Street Extension Of Mostafa Elnahas Street-Above Seventh District Post Office",,,,,,,
+Salma Ibrahim,Orthopedist,5.0,"Nasr City , Osman Buildings-Ali Amin Street Extension Of Mostafa Elnahas Street-Above Seventh District Post Office",Musculoskeletal,"Nasr City , Osman Buildings-Ali Amin Street Extension Of Mostafa Elnahas Street-Above Seventh District Post Office",,,,,,,
+Yasmin Abdelrahman,Nutritionist,5.0,"Birket El Sabea , western side",Others,"Birket El Sabea , western side",,,,,,,
+Sara El-Khatib,Nutritionist,5.0,"Birket El Sabea , western side",Others,"Birket El Sabea , western side",,,,,,,
+Sara Khalil,Pediatric Surgeon,5.0,"El-Haram , Al Haram street In front of Gad",Urinary and Reproductive,"El-Haram , Al Haram street In front of Gad",,,,,,,
+Nadia Ibrahim,Pediatric Surgeon,5.0,"El-Haram , Al Haram street In front of Gad",Urinary and Reproductive,"El-Haram , Al Haram street In front of Gad",,,,,,,
+Laila Zaki,Plastic Surgeon,5.0,"New Cairo , North Teseen",Musculoskeletal,"New Cairo , North Teseen",,,,,,,
+Nader Abdallah,Gynecologist,5.0,"Nasr City , Ibn el nafees street",Urinary and Reproductive,"Nasr City , Ibn el nafees street",,,,,,,
+Adel El-Din,Cardiologist,5.0,"Faisal , faisal street",Cardiovascular,"Faisal , faisal street",,,,,,,
+Heba Shalaby,Gynecologist,5.0,"Boulaq El Dakrour , Mohamed Ibrahim Street-At the intersection of nahya street",Urinary and Reproductive,"Boulaq El Dakrour , Mohamed Ibrahim Street-At the intersection of nahya street",,,,,,,
+Nadia El-Sherbiny,Oncologist,5.0,"El-Mansoura , hussen bek street",Others,"El-Mansoura , hussen bek street",,,,,,,
+Hani Farouk,Gynecologist,5.0,"Smouha , Bahaa Eldin Elghatwary Street-",Urinary and Reproductive,"Smouha , Bahaa Eldin Elghatwary Street-",,,,,,,
+Amr El-Shazly,Dentist,5.0,"6th of October , Prima Vista Medical-Elmehwar Elmarkazi",Others,"6th of October , Prima Vista Medical-Elmehwar Elmarkazi",,,,,,,
+Ahmed Gaber,Dentist,5.0,"Nasr City , EL Nasr ST",Others,"Nasr City , EL Nasr ST",,,,,,,
+Ibrahim Fahmy,Pediatrician,5.0,"Shibin Al Qanater , Old Labor Office Street",Others,"Shibin Al Qanater , Old Labor Office Street",,,,,,,
+Tamer Farouk,Orthopedist,5.0,"Mahalla , El Bahr.Alshoun",Musculoskeletal,"Mahalla , El Bahr.Alshoun",,,,,,,
+Ibrahim El-Sherif,Gastroenterologist,5.0,"Heliopolis , Nehro,Heliopolis",Gastrointestinal and Liver,"Heliopolis , Nehro,Heliopolis",,,,,,,
+Salim Salah,Physiotherapist,5.0,"Nasr City ,  Metwally elsharawy",Musculoskeletal,"Nasr City ,  Metwally elsharawy",,,,,,,
+Nour El-Kholy,Ophthalmologist,5.0,"El-Mansoura , streert beside El Adeeb street","Eye, Ear and Nose","El-Mansoura , streert beside El Adeeb street",,,,,,,
+Yasmin El-Hadidy,Dentist,5.0,"Smouha , el Nasr street",Others,"Smouha , el Nasr street",,,,,,,
+Fady El-Baz,Cardiologist,5.0,"Damietta El Gadeeda , mahgoub street",Cardiovascular,"Damietta El Gadeeda , mahgoub street",,,,,,,
+Rami Salah,Anesthesiologist,4.758470894874023,"Tanta , Botros",Others,"Tanta , Botros",,,,,,,
+Heba Abdelrahman,Gynecologist,4.5,"Faisal , Ahmed esmail street branched from Kaaebesh Street-besides Sayed Elsherbiny Beauty Center",Urinary and Reproductive,"Faisal , Ahmed esmail street branched from Kaaebesh Street-besides Sayed Elsherbiny Beauty Center",,,,,,,
+Heba El-Gendy,Dentist,4.758470894874023,"Loran , El Horreya Street",Others,"Loran , El Horreya Street",,,,,,,
+Rania Hassan,Gynecologist,4.758470894874023,"El-Haram , Elharam",Urinary and Reproductive,"El-Haram , Elharam",,,,,,,
+Mariam El-Sherbiny,Pediatrician,4.758470894874023,"El-Shorouk , Panorama Mall Street",Others,"El-Shorouk , Panorama Mall Street",,,,,,,
+Amira Mahmoud,Physiotherapist,5.0,"El-Mansoura , Gomhoria",Musculoskeletal,"El-Mansoura , Gomhoria",,,,,,,
+Heba Saeed,Dermatologist,4.5,"El-Ibrahimia , Lagatia Street",Skin,"El-Ibrahimia , Lagatia Street",,,,,,,
+Rania Salah,Dentist,4.758470894874023,"El-Dokki , null",Others,"El-Dokki , null",,,,,,,
+Hani El-Baz,Dermatologist,5.0,"Nasr City , Street 11",Skin,"Nasr City , Street 11",,,,,,,
+Tamer Fahmy,Physiotherapist,5.0,"El-Mansoura , Gomhoria",Musculoskeletal,"El-Mansoura , Gomhoria",,,,,,,
+Mostafa El-Baz,Physiotherapist,5.0,"El-Mansoura , Gomhoria",Musculoskeletal,"El-Mansoura , Gomhoria",,,,,,,
+Amr El-Kholy,Physiotherapist,5.0,"El-Mansoura , Gomhoria",Musculoskeletal,"El-Mansoura , Gomhoria",,,,,,,
+Khaled Salah,Physiotherapist,5.0,"El-Mansoura , Gomhoria",Musculoskeletal,"El-Mansoura , Gomhoria",,,,,,,
+Khaled Abdelrahman,Physiotherapist,5.0,"6th of October , above el-mokhtbar laboratory",Musculoskeletal,"6th of October , above el-mokhtbar laboratory",,,,,,,
+Zein Abdelrahman,General Surgeon,5.0,"West El-Balad , Alabagieah Buildings-Elsayeda Aisha",Musculoskeletal,"West El-Balad , Alabagieah Buildings-Elsayeda Aisha",,,,,,,
+Mostafa Salah,Dentist,5.0,"Nasr City , EL Nasr ST",Others,"Nasr City , EL Nasr ST",,,,,,,
+Ahmed Shalaby,Cardiologist,5.0,"El-Zagazig , the beginning of Farooq st",Cardiovascular,"El-Zagazig , the beginning of Farooq st",,,,,,,
+Hassan Mansour,Cardiologist,5.0,"El-Sheikh Zayed , District 12 Courtyard zayed",Cardiovascular,"El-Sheikh Zayed , District 12 Courtyard zayed",,,,,,,
+Laila Ibrahim,Andrologist,5.0,"Hadayek El-Kobba , Teraet elgendy st",Urinary and Reproductive,"Hadayek El-Kobba , Teraet elgendy st",,,,,,,
+Nader El-Saied,ENT Doctor,5.0,"Janaklees , Abo Qir street","Eye, Ear and Nose","Janaklees , Abo Qir street",,,,,,,
+Fatma Gaber,Surgical Oncologist,5.0,"Tanta , Elmoderia",Gastrointestinal and Liver,"Tanta , Elmoderia",,,,,,,
+Firas El-Saied,Physiotherapist,5.0,"Nasr City , Makram Ebaid",Musculoskeletal,"Nasr City , Makram Ebaid",,,,,,,
+Rania El-Gohary,Plastic Surgeon,5.0,"Faisal , Faisal street - Talbeia",Musculoskeletal,"Faisal , Faisal street - Talbeia",,,,,,,
+Reem Taha,Physiotherapist,5.0,"Shoubra , shopra",Musculoskeletal,"Shoubra , shopra",,,,,,,
+Ibrahim El-Baz,Physiotherapist,5.0,"Hadayek Helwan , almonzer",Musculoskeletal,"Hadayek Helwan , almonzer",,,,,,,
+Mostafa El-Mahdy,Orthopedist,5.0,"New Cairo , north teseen street",Musculoskeletal,"New Cairo , north teseen street",,,,,,,
+Ali El-Mahdy,Neurosurgeon,5.0,"El-Shorouk , Panorama Mall Street",Neurological and Psychiatric,"El-Shorouk , Panorama Mall Street",,,,,,,
+Hani Youssef,Cardiologist,5.0,"Moharam Bek , Galal El Dosoky street -Wabour El Meah",Cardiovascular,"Moharam Bek , Galal El Dosoky street -Wabour El Meah",,,,,,,
+Yasmin Hassan,Physiotherapist,5.0,"6th of October , above el-mokhtbar laboratory",Musculoskeletal,"6th of October , above el-mokhtbar laboratory",,,,,,,
+Ali El-Shennawy,General Surgeon,5.0,"West El-Balad , Alabagieah Buildings-Elsayeda Aisha",Musculoskeletal,"West El-Balad , Alabagieah Buildings-Elsayeda Aisha",,,,,,,
+Reem El-Sayed,Ophthalmologist,5.0,"El-Maadi , nasr st elgazaaer st","Eye, Ear and Nose","El-Maadi , nasr st elgazaaer st",,,,,,,
+Bassam Abdallah,Ophthalmologist,5.0,"Damietta El Gadeeda , Centeral Area","Eye, Ear and Nose","Damietta El Gadeeda , Centeral Area",,,,,,,
+Hassan El-Sherbiny,Dentist,5.0,"Nasr City , EL Nasr ST",Others,"Nasr City , EL Nasr ST",,,,,,,
+Mohamed Zaki,Cardiologist,5.0,"El-Manyal , El-Manyal street",Cardiovascular,"El-Manyal , El-Manyal street",,,,,,,
+Mona Saeed,Cardiologist,5.0,"El-Zagazig , the beginning of Farooq st",Cardiovascular,"El-Zagazig , the beginning of Farooq st",,,,,,,
+Khaled Youssef,Andrologist,5.0,"Hadayek El-Kobba , Teraet elgendy st",Urinary and Reproductive,"Hadayek El-Kobba , Teraet elgendy st",,,,,,,
+Aya El-Shazly,Surgical Oncologist,5.0,"Tanta , Elmoderia",Gastrointestinal and Liver,"Tanta , Elmoderia",,,,,,,
+Nadia El-Shennawy,Orthopedist,5.0,"El-Giza , Hamadan",Musculoskeletal,"El-Giza , Hamadan",,,,,,,
+Mohamed Mansour,Obesity Surgeon,5.0,"Heliopolis , 77 Abd ElHamid Badawy St. - Heliopolis - In front of El Shams Club - Above Spectra Restaurant .",Urinary and Reproductive,"Heliopolis , 77 Abd ElHamid Badawy St. - Heliopolis - In front of El Shams Club - Above Spectra Restaurant .",,,,,,,
+Sami El-Gohary,Plastic Surgeon,5.0,"Faisal , Faisal street - Talbeia",Musculoskeletal,"Faisal , Faisal street - Talbeia",,,,,,,
+Mohamed El-Saied,Physiotherapist,5.0,"Shoubra , shopra",Musculoskeletal,"Shoubra , shopra",,,,,,,
+Nader El-Sherif,Orthopedist,5.0,"New Cairo , north teseen street",Musculoskeletal,"New Cairo , north teseen street",,,,,,,
+Youssef El-Saied,Nutritionist,5.0,"Smouha , smouha garden city",Others,"Smouha , smouha garden city",,,,,,,
+Youssef El-Sherbiny,Gynecologist,5.0,"El-Mansoura , Elnour Tower-Salah Salem Street-Talkha",Urinary and Reproductive,"El-Mansoura , Elnour Tower-Salah Salem Street-Talkha",,,,,,,
+Aya Khalil,Cardiologist,5.0,"Heliopolis , Nehro,Heliopolis",Cardiovascular,"Heliopolis , Nehro,Heliopolis",,,,,,,
+Mostafa Hussein,Gynecologist,5.0,"Heliopolis , Othman bin Afan",Urinary and Reproductive,"Heliopolis , Othman bin Afan",,,,,,,
+Mahmoud Mansour,Gynecologist,5.0,"El-Rehab , Medical Park Elite",Urinary and Reproductive,"El-Rehab , Medical Park Elite",,,,,,,
+Fatma Hassan,Cardiologist,5.0,"Moharam Bek , Galal El Dosoky street -Wabour El Meah",Cardiovascular,"Moharam Bek , Galal El Dosoky street -Wabour El Meah",,,,,,,
+Zein El-Kholy,Physiotherapist,5.0,"El-Mansoura , Gomhoria",Musculoskeletal,"El-Mansoura , Gomhoria",,,,,,,
+Khaled El-Baz,Dentist,5.0,"Heliopolis , Ahmed el Dardiry, Ard El Golf",Others,"Heliopolis , Ahmed el Dardiry, Ard El Golf",,,,,,,
+Khaled El-Sherbiny,Gynecologist,5.0,"Nasr City , Ahmed Alzumor street",Urinary and Reproductive,"Nasr City , Ahmed Alzumor street",,,,,,,
+Nader Fathy,General Surgeon,5.0,"El-Rehab , Infront of gate 6",Musculoskeletal,"El-Rehab , Infront of gate 6",,,,,,,
+Nadia Hussein,Cardiologist,5.0,"El-Mohandessin , Alfawakh St",Cardiovascular,"El-Mohandessin , Alfawakh St",,,,,,,
+Firas Fathy,Orthopedist,5.0,"El-Sheikh Zayed , elmoaz plaza",Musculoskeletal,"El-Sheikh Zayed , elmoaz plaza",,,,,,,
+Dina Salah,Ophthalmologist,5.0,"Fakous , Mostafa Kamel Street","Eye, Ear and Nose","Fakous , Mostafa Kamel Street",,,,,,,
+Nadia El-Kholy,Gynecologist,5.0,"Smouha , victor emmanual",Urinary and Reproductive,"Smouha , victor emmanual",,,,,,,
+Ali El-Sayed,Physiotherapist,5.0,"Hadayek Helwan , almonzer",Musculoskeletal,"Hadayek Helwan , almonzer",,,,,,,
+Mona Shalaby,Neurosurgeon,5.0,"El-Shorouk , Panorama Mall Street",Neurological and Psychiatric,"El-Shorouk , Panorama Mall Street",,,,,,,
+Ahmed Abdelrahman,ENT Doctor,5.0,"Janaklees , Abo Qir street","Eye, Ear and Nose","Janaklees , Abo Qir street",,,,,,,
+Mariam Khalil,Physiotherapist,5.0,"El-Mansoura , Gomhoria",Musculoskeletal,"El-Mansoura , Gomhoria",,,,,,,
+Jamal El-Gendy,Gynecologist,5.0,"Damanhur , the garden street",Urinary and Reproductive,"Damanhur , the garden street",,,,,,,
+Hassan El-Gendy,Nutritionist,4.758470894874023,"Heliopolis , Mohamed Al Dahan from Nabile Al Wakad",Others,"Heliopolis , Mohamed Al Dahan from Nabile Al Wakad",,,,,,,
+Walid Ibrahim,Dentist,5.0,"Heliopolis , mohamed farid",Others,"Heliopolis , mohamed farid",,,,,,,
+Yasmin Youssef,Physiotherapist,5.0,"Hadayek El-Kobba , Alzawia Alhamraa",Musculoskeletal,"Hadayek El-Kobba , Alzawia Alhamraa",,,,,,,
+Hassan El-Sherif,Internist,5.0,"Sporting , portsaid",Others,"Sporting , portsaid",,,,,,,
+Sara Mostafa,Dentist,5.0,"Smouha , Fawzy Moaaz street",Others,"Smouha , Fawzy Moaaz street",,,,,,,
+Salim El-Naggar,Cardiologist,5.0,"6th of October , 16th unit - city stars",Cardiovascular,"6th of October , 16th unit - city stars",,,,,,,
+Heba El-Khatib,Cardiologist,5.0,"El-Mohandessin , Alfawakh St",Cardiovascular,"El-Mohandessin , Alfawakh St",,,,,,,
+Khaled El-Naggar,Orthopedist,5.0,"El-Sheikh Zayed , elmoaz plaza",Musculoskeletal,"El-Sheikh Zayed , elmoaz plaza",,,,,,,
+Fady Nasser,Ophthalmologist,5.0,"Fakous , Mostafa Kamel Street","Eye, Ear and Nose","Fakous , Mostafa Kamel Street",,,,,,,
+Nadia Farouk,Gynecologist,5.0,"Smouha , victor emmanual",Urinary and Reproductive,"Smouha , victor emmanual",,,,,,,
+Salma Farouk,Dentist,5.0,"Heliopolis , Ahmed el Dardiry, Ard El Golf",Others,"Heliopolis , Ahmed el Dardiry, Ard El Golf",,,,,,,
+Ibrahim Abdelrahman,Gynecologist,5.0,"Nasr City , Ahmed Alzumor street",Urinary and Reproductive,"Nasr City , Ahmed Alzumor street",,,,,,,
+Hani Abdallah,General Surgeon,5.0,"El-Rehab , Infront of gate 6",Musculoskeletal,"El-Rehab , Infront of gate 6",,,,,,,
+Mostafa Taha,Physiotherapist,5.0,"El-Mansoura , Gomhoria",Musculoskeletal,"El-Mansoura , Gomhoria",,,,,,,
+Sara Youssef,Spinal Surgeon,5.0,"Heliopolis , Nehro,Heliopolis",Musculoskeletal,"Heliopolis , Nehro,Heliopolis",,,,,,,
+Ali Abdallah,Cardiologist,5.0,"El-Sheikh Zayed , twin towers",Cardiovascular,"El-Sheikh Zayed , twin towers",,,,,,,
+Adel Youssef,Dentist,5.0,"Heliopolis , mohamed farid",Others,"Heliopolis , mohamed farid",,,,,,,
+Firas El-Masry,Physiotherapist,5.0,"Hadayek El-Kobba , Alzawia Alhamraa",Musculoskeletal,"Hadayek El-Kobba , Alzawia Alhamraa",,,,,,,
+Ali El-Din,Internist,5.0,"Sporting , portsaid",Others,"Sporting , portsaid",,,,,,,
+Laila Hussein,Dentist,5.0,"Smouha , Fawzy Moaaz street",Others,"Smouha , Fawzy Moaaz street",,,,,,,
+Noha Gaber,Cardiologist,5.0,"6th of October , 16th unit - city stars",Cardiovascular,"6th of October , 16th unit - city stars",,,,,,,
+Laila El-Shazly,Physiotherapist,5.0,"El-Mansoura , Gomhoria",Musculoskeletal,"El-Mansoura , Gomhoria",,,,,,,
+Mahmoud Samir,Gynecologist,5.0,"Damanhur , the garden street",Urinary and Reproductive,"Damanhur , the garden street",,,,,,,
+Ahmed El-Mahdy,Dentist,5.0,"Heliopolis , mohamed farid",Others,"Heliopolis , mohamed farid",,,,,,,
+Heba Mostafa,Internist,5.0,"Sporting , portsaid",Others,"Sporting , portsaid",,,,,,,
+Noha El-Saied,Dentist,5.0,"Smouha , Fawzy Moaaz street",Others,"Smouha , Fawzy Moaaz street",,,,,,,
+Hani Fahmy,Cardiologist,5.0,"6th of October , 16th unit - city stars",Cardiovascular,"6th of October , 16th unit - city stars",,,,,,,
+Mahmoud Saeed,Family Doctor,5.0,"Tanta , tanta sharawy st",Others,"Tanta , tanta sharawy st",,,,,,,
+Hani Khalil,Gynecologist,5.0,"El Salam City , ElRabeaa Street-Branched From Omar Ibn Elkhatab Street-Gesr ElSuez",Urinary and Reproductive,"El Salam City , ElRabeaa Street-Branched From Omar Ibn Elkhatab Street-Gesr ElSuez",,,,,,,
+Nader El-Naggar,Nutritionist,5.0,"El-Sheikh Zayed , Elmehwar Elmarkazi",Others,"El-Sheikh Zayed , Elmehwar Elmarkazi",,,,,,,
+Sara Abdallah,Physiotherapist,5.0,"El-Mansoura , Gomhoria",Musculoskeletal,"El-Mansoura , Gomhoria",,,,,,,
+Youssef Hussein,Dentist,5.0,"6th of October , Street 19-vranched from elkhazan street-neighborhood 3-Fifth district",Others,"6th of October , Street 19-vranched from elkhazan street-neighborhood 3-Fifth district",,,,,,,
+Mona Taha,Nutritionist,5.0,"El-Sheikh Zayed , ElMehwar Elmarkazi",Others,"El-Sheikh Zayed , ElMehwar Elmarkazi",,,,,,,
+Mariam Mostafa,Cardiologist,5.0,"El-Sheikh Zayed , twin towers",Cardiovascular,"El-Sheikh Zayed , twin towers",,,,,,,
+Ibrahim El-Hadidy,Pulmonologist,5.0,"New Cairo , The  Northen 90 st",Respiratory,"New Cairo , The  Northen 90 st",,,,,,,
+Mariam Hussein,Allergist,5.0,"New Cairo , north teseen street",Skin,"New Cairo , north teseen street",,,,,,,
+Adel El-Naggar,Physiotherapist,5.0,"El-Mansoura , Gomhoria",Musculoskeletal,"El-Mansoura , Gomhoria",,,,,,,
+Nadia Shalaby,Gynecologist,5.0,"Mahalla , shokry elkoatly",Urinary and Reproductive,"Mahalla , shokry elkoatly",,,,,,,
+Rania Fathy,Surgical Oncologist,5.0,"Nasr City , Youssef abaas and Elnasr street interaction",Gastrointestinal and Liver,"Nasr City , Youssef abaas and Elnasr street interaction",,,,,,,
+Jamal El-Sayed,Dentist,5.0,"North Coast , Ali Ebn Abi Taleb Street",Others,"North Coast , Ali Ebn Abi Taleb Street",,,,,,,
+Amira Taha,Endocrinologist,5.0,"Heliopolis , Omar Ibn Al Khattab - Ismailia Sq.",Others,"Heliopolis , Omar Ibn Al Khattab - Ismailia Sq.",,,,,,,
+Firas El-Khatib,Dentist,5.0,"El-Maadi , 263 street from Al Nasr Road",Others,"El-Maadi , 263 street from Al Nasr Road",,,,,,,
+Bassam El-Sayed,Gynecologist,5.0,"Damietta El Gadeeda , al azhar hospital",Urinary and Reproductive,"Damietta El Gadeeda , al azhar hospital",,,,,,,
+Ali Taha,Dentist,5.0,"El-Shorouk , terrace mall",Others,"El-Shorouk , terrace mall",,,,,,,
+Ali Farouk,General Surgeon,5.0,"Assiut city , elnemas",Musculoskeletal,"Assiut city , elnemas",,,,,,,
+Laila Fathy,Orthopedist,5.0,"El-Zaitoun , ElMatarya St",Musculoskeletal,"El-Zaitoun , ElMatarya St",,,,,,,
+Tamer El-Sherif,Cardiologist,5.0,"El-Maadi , Elmansour Tower-Street 77 infront of Maadi Club Fence",Cardiovascular,"El-Maadi , Elmansour Tower-Street 77 infront of Maadi Club Fence",,,,,,,
+Bassam Khalil,Dentist,5.0,"Faisal , king faisal street- al Marioteya",Others,"Faisal , king faisal street- al Marioteya",,,,,,,
+Hassan El-Khatib,Cardiologist,5.0,"El-Sheikh Zayed , Downtown mall 2-besides total fuel station",Cardiovascular,"El-Sheikh Zayed , Downtown mall 2-besides total fuel station",,,,,,,
+Mariam Mahmoud,Ophthalmologist,5.0,"Bulkly , Bulkly / Al-Hadaya Tram Station / Al-Khaleej Building (A)","Eye, Ear and Nose","Bulkly , Bulkly / Al-Hadaya Tram Station / Al-Khaleej Building (A)",,,,,,,
+Fady El-Gohary,Gynecologist,5.0,"Port Said City , safya zaghlol and mashrak st",Urinary and Reproductive,"Port Said City , safya zaghlol and mashrak st",,,,,,,
+Rami El-Masry,Dentist,5.0,"6th of October , central axis 5th district - infront of el khazan street",Others,"6th of October , central axis 5th district - infront of el khazan street",,,,,,,
+Amr El-Mahdy,Ophthalmologist,5.0,"El-Maadi , Carrefour street","Eye, Ear and Nose","El-Maadi , Carrefour street",,,,,,,
+Heba El-Naggar,Orthopedist,5.0,"Nasr City , block 10 emtedad abo dawoud",Musculoskeletal,"Nasr City , block 10 emtedad abo dawoud",,,,,,,
+Tamer El-Mahdy,Dentist,5.0,"6th of October , Street 19-vranched from elkhazan street-neighborhood 3-Fifth district",Others,"6th of October , Street 19-vranched from elkhazan street-neighborhood 3-Fifth district",,,,,,,
+Mostafa Abdelrahman,Nutritionist,5.0,"El-Sheikh Zayed , ElMehwar Elmarkazi",Others,"El-Sheikh Zayed , ElMehwar Elmarkazi",,,,,,,
+Tamer Hassan,Physiotherapist,5.0,"El-Mansoura , Gomhoria",Musculoskeletal,"El-Mansoura , Gomhoria",,,,,,,
+Mahmoud Zaki,Surgical Oncologist,5.0,"El-Giza , mourad",Gastrointestinal and Liver,"El-Giza , mourad",,,,,,,
+Zein Zaki,Ophthalmologist,5.0,"Tanta , Elgish st","Eye, Ear and Nose","Tanta , Elgish st",,,,,,,
+Mahmoud Ibrahim,Cardiologist,5.0,"Heliopolis , El nozha street-Smart Slim Clinic besides Administrative Oversight",Cardiovascular,"Heliopolis , El nozha street-Smart Slim Clinic besides Administrative Oversight",,,,,,,
+Dina Fathy,Orthopedist,5.0,"El-Zaitoun , Toman bai",Musculoskeletal,"El-Zaitoun , Toman bai",,,,,,,
+Heba Fahmy,Ophthalmologist,5.0,"6th of October , Abdelkhalek tharwat","Eye, Ear and Nose","6th of October , Abdelkhalek tharwat",,,,,,,
+Nour El-Baz,Dentist,5.0,"Faisal , king faisal street- al Marioteya",Others,"Faisal , king faisal street- al Marioteya",,,,,,,
+Salma Hussein,Cardiologist,5.0,"El-Sheikh Zayed , Downtown mall 2-besides total fuel station",Cardiovascular,"El-Sheikh Zayed , Downtown mall 2-besides total fuel station",,,,,,,
+Fady Mansour,Ophthalmologist,5.0,"Bulkly , Bulkly / Al-Hadaya Tram Station / Al-Khaleej Building (A)","Eye, Ear and Nose","Bulkly , Bulkly / Al-Hadaya Tram Station / Al-Khaleej Building (A)",,,,,,,
+Yasmin Fahmy,Gynecologist,5.0,"Port Said City , safya zaghlol and mashrak st",Urinary and Reproductive,"Port Said City , safya zaghlol and mashrak st",,,,,,,
+Firas Khalil,Dentist,5.0,"6th of October , central axis 5th district - infront of el khazan street",Others,"6th of October , central axis 5th district - infront of el khazan street",,,,,,,
+Jamal Ibrahim,Ophthalmologist,5.0,"El-Maadi , Carrefour street","Eye, Ear and Nose","El-Maadi , Carrefour street",,,,,,,
+Rania Mostafa,Orthopedist,5.0,"Nasr City , block 10 emtedad abo dawoud",Musculoskeletal,"Nasr City , block 10 emtedad abo dawoud",,,,,,,
+Laila El-Kholy,Physiotherapist,5.0,"El-Mansoura , Gomhoria",Musculoskeletal,"El-Mansoura , Gomhoria",,,,,,,
+Mostafa El-Shazly,Surgical Oncologist,5.0,"El-Ismailia city , Shbeen St.",Gastrointestinal and Liver,"El-Ismailia city , Shbeen St.",,,,,,,
+Nadia Fathy,Ophthalmologist,5.0,"El-Mansoura , Suiz Canal Street-ElSabeaa Tower","Eye, Ear and Nose","El-Mansoura , Suiz Canal Street-ElSabeaa Tower",,,,,,,
+Rami El-Kholy,Ophthalmologist,5.0,"El-Sheikh Zayed , Zayed (Badr) mall","Eye, Ear and Nose","El-Sheikh Zayed , Zayed (Badr) mall",,,,,,,
+Nour Abdelrahman,ENT Doctor,5.0,"El-Mansoura , new bus street","Eye, Ear and Nose","El-Mansoura , new bus street",,,,,,,
+Fady El-Kholy,Cardiologist,5.0,"Mit Ghamr , el moahda street",Cardiovascular,"Mit Ghamr , el moahda street",,,,,,,
+Firas Fahmy,General Surgeon,5.0,"El-Mansoura , thawra",Musculoskeletal,"El-Mansoura , thawra",,,,,,,
+Walid Salah,Ophthalmologist,5.0,"El-Giza , Giza Square Al haram street","Eye, Ear and Nose","El-Giza , Giza Square Al haram street",,,,,,,
+Reem El-Sherbiny,Physiotherapist,5.0,"Shibin Al Qanater , mostrad station",Musculoskeletal,"Shibin Al Qanater , mostrad station",,,,,,,
+Ahmed El-Kassas,Cardiologist,5.0,"El-Manyal , el saraya",Cardiovascular,"El-Manyal , el saraya",,,,,,,
+Mostafa El-Sayed,Cardiologist,5.0,"Heliopolis , ahmed fouad street",Cardiovascular,"Heliopolis , ahmed fouad street",,,,,,,
+Mahmoud El-Sayed,Physiotherapist,5.0,"Hadayek El-Ahram , Gardinia Gate-First Gate-Health Happiness Center",Musculoskeletal,"Hadayek El-Ahram , Gardinia Gate-First Gate-Health Happiness Center",,,,,,,
+Jamal Salah,Dermatologist,5.0,"Ain Shams , Gesr Suez street  - alf maskan square",Skin,"Ain Shams , Gesr Suez street  - alf maskan square",,,,,,,
+Salma El-Shennawy,Gynecologist,5.0,"Helwan , Mahmoud Khater Street cross Abdullah",Urinary and Reproductive,"Helwan , Mahmoud Khater Street cross Abdullah",,,,,,,
+Dina El-Shazly,Vascular Surgeon,5.0,"Mahalla , elmashma square",Musculoskeletal,"Mahalla , elmashma square",,,,,,,
+Aya El-Saied,Ophthalmologist,5.0,"Nasr City , Abo Dawoud El Zahry","Eye, Ear and Nose","Nasr City , Abo Dawoud El Zahry",,,,,,,
+Yasmin El-Saied,Oncologist,5.0,"Tanta , El-Geish st.  with Al- Galaa st.- Al-Awkaf  tower",Others,"Tanta , El-Geish st.  with Al- Galaa st.- Al-Awkaf  tower",,,,,,,
+Ali Kamel,Physiotherapist,5.0,"El-Mansoura , Gomhoria",Musculoskeletal,"El-Mansoura , Gomhoria",,,,,,,
+Nader El-Amin,Neurologist,5.0,"El-Maadi , Ellaselki Street-New Maadi",Neurological and Psychiatric,"El-Maadi , Ellaselki Street-New Maadi",,,,,,,
+Heba Ibrahim,Ophthalmologist,5.0,"Heliopolis , Gesr El Swis- El Anaan Tower","Eye, Ear and Nose","Heliopolis , Gesr El Swis- El Anaan Tower",,,,,,,
+Mona El-Shazly,Gynecologist,5.0,"Loran , Maher Bek st,",Urinary and Reproductive,"Loran , Maher Bek st,",,,,,,,
+Amira El-Sherif,Gastroenterologist,5.0,"New Cairo , North teseen street",Gastrointestinal and Liver,"New Cairo , North teseen street",,,,,,,
+Ali El-Naggar,Surgical Oncologist,5.0,"Tanta , algalaa",Gastrointestinal and Liver,"Tanta , algalaa",,,,,,,
+Sara El-Gohary,Gynecologist,5.0,"Heliopolis , El khalefa Elmamoan St",Urinary and Reproductive,"Heliopolis , El khalefa Elmamoan St",,,,,,,
+Amr El-Sayed,Gynecologist,5.0,"Mahalla , Elshoun 23 Yolio street",Urinary and Reproductive,"Mahalla , Elshoun 23 Yolio street",,,,,,,
+Amira El-Sayed,General Surgeon,5.0,"El-Maadi , El horreya square Street",Musculoskeletal,"El-Maadi , El horreya square Street",,,,,,,
+Noha Hassan,Ophthalmologist,5.0,"Mahalla , alshoun square al asar steet","Eye, Ear and Nose","Mahalla , alshoun square al asar steet",,,,,,,
+Aya Fathy,Dentist,5.0,"Nasr City , Abbas Elakad Street",Others,"Nasr City , Abbas Elakad Street",,,,,,,
+Amira Zaki,Ophthalmologist,5.0,"Hadayek El-Kobba , Masr we El Sudan","Eye, Ear and Nose","Hadayek El-Kobba , Masr we El Sudan",,,,,,,
+Salma Khalil,Gynecologist,5.0,"Heliopolis , Ahmad El-Tahawi",Urinary and Reproductive,"Heliopolis , Ahmad El-Tahawi",,,,,,,
+Nadia El-Gohary,Ophthalmologist,5.0,"Mahalla , waboor alnor","Eye, Ear and Nose","Mahalla , waboor alnor",,,,,,,
+Ahmed El-Saied,Internist,5.0,"Mahalla , Talaat Harb Square",Others,"Mahalla , Talaat Harb Square",,,,,,,
+Youssef El-Hadidy,Pediatric Surgeon,5.0,"El-Obour City , First District - Hijaz Center",Urinary and Reproductive,"El-Obour City , First District - Hijaz Center",,,,,,,
+Firas Salah,Dentist,5.0,"Hadayek El-Ahram , Elgiesh Street-Gate 4 Besides Reayah Pharmacy",Others,"Hadayek El-Ahram , Elgiesh Street-Gate 4 Besides Reayah Pharmacy",,,,,,,
+Tamer Fathy,Ophthalmologist,5.0,"West El-Balad , alfy","Eye, Ear and Nose","West El-Balad , alfy",,,,,,,
+Sara El-Saied,Surgical Oncologist,5.0,"El-Ismailia city , Shbeen St.",Gastrointestinal and Liver,"El-Ismailia city , Shbeen St.",,,,,,,
+Walid El-Amin,Ophthalmologist,5.0,"El-Mansoura , Suiz Canal Street-ElSabeaa Tower","Eye, Ear and Nose","El-Mansoura , Suiz Canal Street-ElSabeaa Tower",,,,,,,
+Salma Mansour,Ophthalmologist,5.0,"El-Sheikh Zayed , Zayed (Badr) mall","Eye, Ear and Nose","El-Sheikh Zayed , Zayed (Badr) mall",,,,,,,
+Mona El-Naggar,ENT Doctor,5.0,"El-Mansoura , new bus street","Eye, Ear and Nose","El-Mansoura , new bus street",,,,,,,
+Amr Mahmoud,Cardiologist,5.0,"Mit Ghamr , el moahda street",Cardiovascular,"Mit Ghamr , el moahda street",,,,,,,
+Nour El-Shazly,General Surgeon,5.0,"El-Mansoura , thawra",Musculoskeletal,"El-Mansoura , thawra",,,,,,,
+Reem El-Din,Ophthalmologist,5.0,"El-Giza , Giza Square Al haram street","Eye, Ear and Nose","El-Giza , Giza Square Al haram street",,,,,,,
+Rami El-Shennawy,Physiotherapist,5.0,"Shibin Al Qanater , mostrad station",Musculoskeletal,"Shibin Al Qanater , mostrad station",,,,,,,
+Amira Abdelrahman,Cardiologist,5.0,"El-Manyal , el saraya",Cardiovascular,"El-Manyal , el saraya",,,,,,,
+Youssef El-Khatib,Physiotherapist,5.0,El-Mansoura,Musculoskeletal,El-Mansoura,0.0,36.786091,9.9000163,36.786091,9.9000163,36.786091,9.9000163
+Adel El-Baz,Dermatologist,4.5,El-Ibrahimia,Skin,El-Ibrahimia,1.0,28.4243751,30.7932891,28.4243751,30.7932891,28.4243751,30.7932891
+Zein Gaber,Orthopedist,4.5,6th of October,Musculoskeletal,6th of October,2.0,29.9723458,30.9409205,29.9723458,30.9409205,29.9723458,30.9409205
+Ali Salah,Gynecologist,4.758470894874023,El-Haram,Urinary and Reproductive,El-Haram,3.0,29.9942663,31.1604591,29.9942663,31.1604591,29.9942663,31.1604591
+Salma El-Kholy,Dermatologist,5.0,Nasr City,Skin,Nasr City,4.0,30.0521177,31.3422045,30.0521177,31.3422045,30.0521177,31.3422045
+Ahmed El-Kholy,Pulmonologist,4.5,"El-Ibrahimia , Omar Lotfy st lteram",Respiratory,"El-Ibrahimia , Omar Lotfy st lteram",,,,,,,
+Yasmin El-Mahdy,Gynecologist,4.5,"El-Haram , Khofo street - El kom El Akhdar - Haram",Urinary and Reproductive,"El-Haram , Khofo street - El kom El Akhdar - Haram",,,,,,,
+Nour Hassan,Urologist,4.5,"Heliopolis , el sawra",Urinary and Reproductive,"Heliopolis , el sawra",,,,,,,
+Salma El-Sherbiny,Pediatrician,5.0,"Victoria , El Galaa St.",Others,"Victoria , El Galaa St.",,,,,,,
+Hassan Khalil,Psychiatrist,4.0,"Heliopolis , Mostafa Refaat",Neurological and Psychiatric,"Heliopolis , Mostafa Refaat",,,,,,,
+Mohamed El-Naggar,Vascular Surgeon,4.5,"El-Manyal , El Manyal",Musculoskeletal,"El-Manyal , El Manyal",,,,,,,
+Youssef Ibrahim,Orthopedist,4.5,"Victoria , El Galaa St.",Musculoskeletal,"Victoria , El Galaa St.",,,,,,,
+Firas Shalaby,Vascular Surgeon,4.5,"Tanta , El Gaish st",Musculoskeletal,"Tanta , El Gaish st",,,,,,,
+Sami Gaber,General Surgeon,4.5,"New Cairo , Corner mall In front of El Rehab",Musculoskeletal,"New Cairo , Corner mall In front of El Rehab",,,,,,,
+Sami El-Shennawy,Dermatologist,4.5,"El-Maadi ,  El Horya Square",Skin,"El-Maadi ,  El Horya Square",,,,,,,
+Noha Khalil,Pulmonologist,4.5,"El-Matareya , Beet El Ezz 2 building - Matareya square - Building A - Third floor",Respiratory,"El-Matareya , Beet El Ezz 2 building - Matareya square - Building A - Third floor",,,,,,,
+Omar Gaber,Internist,4.5,"6th of October , Safa Clinics, Magda Square, Beside Resala, 6th October",Others,"6th of October , Safa Clinics, Magda Square, Beside Resala, 6th October",,,,,,,
+Laila El-Sayed,Phoniatrician,4.0,"Tanta , Elnahas cross kafr essam","Eye, Ear and Nose","Tanta , Elnahas cross kafr essam",,,,,,,
+Omar Nasser,Orthopedist,4.5,"Nasr City , 11 rabea buldings , behind tom & Bassal , 2nd floor",Musculoskeletal,"Nasr City , 11 rabea buldings , behind tom & Bassal , 2nd floor",,,,,,,
+Heba El-Sherif,Gynecologist,4.5,"Miamy , Gamal AbdelNasser st",Urinary and Reproductive,"Miamy , Gamal AbdelNasser st",,,,,,,
+Hani El-Kassas,Urologist,4.0,"El-Mohandessin ,  shehab street",Urinary and Reproductive,"El-Mohandessin ,  shehab street",,,,,,,
+Zein Hussein,Hepatologist,4.0,"El-Dokki , altahrir",Gastrointestinal and Liver,"El-Dokki , altahrir",,,,,,,
+Salim Nasser,Gynecologist,4.5,"El-Mansoura , abbasi street",Urinary and Reproductive,"El-Mansoura , abbasi street",,,,,,,
+Rania Khalil,Internist,4.0,Faisal,Others,Faisal,75.0,30.0978834,32.4856496,30.0978834,32.4856496,30.0978834,32.4856496
+Nour Fathy,Ophthalmologist,5.0,"Faisal , 27elshahid Ahmad Hamdy","Eye, Ear and Nose","Faisal , 27elshahid Ahmad Hamdy",,,,,,,
